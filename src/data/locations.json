@@ -1,332 +1,1042 @@
-{
-	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
-    "data": [
-        {
-            "name": "Beat the Game - Ryu",
-            "category": ["Starter Team", "Left Side"],
-            "region": "ExampleRegion"
-        },
-        {
-            "name": "Beat the Game - Chun-Li",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Chun-Li| or {YamlCompare(Example_Choice == 1)}"
-        },
-        {
-            "name": "Beat the Game - Akuma",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Akuma| or {YamlCompare(Example_Toggle != True)}"
-        },
-
-        {
-            "name": "Beat the Game - Jill",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Jill| and {ItemValue(star:5)}"
-        },
-        {
-            "name": "Beat the Game - Shuma-Gorath",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Shuma-Gorath|",
-            "hint_entrance": "Unlock Shuma-Gorath"
-        },
-        {
-            "name": "Beat the Game - Nemesis T-Type",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Nemesis T-Type|"
-        },
-        {
-            "name": "Beat the Game - Firebrand",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Firebrand|"
-        },
-        {
-            "name": "Beat the Game - Strider Hiryu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Strider Hiryu|"
-        },
-        {
-            "name": "Beat the Game - Phoenix Wright",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Phoenix Wright|"
-        },
-        {
-            "name": "Beat the Game - Nova",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Nova|"
-        },
-        {
-            "name": "Beat the Game - Ghost Rider",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Ghost Rider|"
-        },
-        {
-            "name": "Beat the Game - Hawkeye",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hawkeye|"
-        },
-        {
-            "name": "Beat the Game - Doctor Strange",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Strange|"
-        },
-        {
-            "name": "Beat the Game - Chris",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Chris|"
-        },
-        {
-            "name": "Beat the Game - Arthur",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Arthur|"
-        },
-        {
-            "name": "Beat the Game - Frank West",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Frank West|"
-        },
-        {
-            "name": "Beat the Game - Vergil",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Vergil|"
-        },
-        {
-            "name": "Beat the Game - Iron Fist",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Fist|"
-        },
-        {
-            "name": "Beat the Game - Rocket Raccoon",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Rocket Raccoon|"
-        },
-        {
-            "name": "Beat the Game - Captain America",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Captain America|"
-        },
-        {
-            "name": "Beat the Game - Dormammu",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Dormammu|"
-        },
-        {
-            "name": "Beat the Game - Wesker",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Wesker|"
-        },
-        {
-            "name": "Beat the Game - Zero",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Zero|"
-        },
-        {
-            "name": "Beat the Game - Dante",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Dante|"
-        },
-        {
-            "name": "Beat the Game - Deadpool",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Deadpool| or {YamlEnabled(free_deadpool)}"
-        },
-        {
-            "name": "Beat the Game - Wolverine",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Wolverine|"
-        },
-        {
-            "name": "Beat the Game - Iron Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Man|"
-        },
-        {
-            "name": "Beat the Game - Doctor Doom",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Doom|"
-        },
-        {
-            "name": "Beat the Game - Morrigan",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Morrigan|"
-        },
-        {
-            "name": "Beat the Game - Tron",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Tron|"
-        },
-        {
-            "name": "Beat the Game - Trish",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Trish|"
-        },
-        {
-            "name": "Beat the Game - X-23",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|X-23|"
-        },
-        {
-            "name": "Beat the Game - Storm",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Storm|"
-        },
-        {
-            "name": "Beat the Game - Thor",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Thor|"
-        },
-        {
-            "name": "Beat the Game - M.O.D.O.K.",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|M.O.D.O.K.|"
-        },
-        {
-            "name": "Beat the Game - Felicia",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Felicia|"
-        },
-        {
-            "name": "Beat the Game - Spencer",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Spencer|"
-        },
-        {
-            "name": "Beat the Game - Viewtiful Joe",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Viewtiful Joe|"
-        },
-        {
-            "name": "Beat the Game - Spider-Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Spider-Man|",
-            "prehint": true
-        },
-        {
-            "name": "Beat the Game - Sentinel",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Sentinel|"
-        },
-        {
-            "name": "Beat the Game - Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hulk|"
-        },
-        {
-            "name": "Beat the Game - Super-Skrull",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Super-Skrull|"
-        },
-        {
-            "name": "Beat the Game - Hsien-Ko",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Hsien-Ko|"
-        },
-        {
-            "name": "Beat the Game - Haggar",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Haggar|"
-        },
-        {
-            "name": "Beat the Game - C. Viper",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|C. Viper|"
-        },
-        {
-            "name": "Beat the Game - Amaterasu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Amaterasu|"
-        },
-        {
-            "name": "Beat the Game - Phoenix",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Phoenix|"
-        },
-        {
-            "name": "Beat the Game - Magneto",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Magneto|"
-        },
-        {
-            "name": "Beat the Game - She-Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|She-Hulk|"
-        },
-        {
-            "name": "Beat the Game - Taskmaster",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Taskmaster|"
-        },
-
-        {
-            "name": "We Saved the World!",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": [
-                "Jill",
-                "Shuma-Gorath",
-                "Nemesis T-Type",
-                "Firebrand",
-                "Strider Hiryu",
-                "Phoenix Wright",
-                "Nova",
-                "Ghost Rider",
-                "Hawkeye",
-                "Doctor Strange",
-                "Chris",
-                "Arthur",
-                "Frank West",
-                "Vergil",
-                "Iron Fist",
-                "Rocket Raccoon",
-                "Captain America",
-                "Dormammu",
-                "Wesker",
-                "Zero",
-                "Dante",
-                "Deadpool",
-                "Wolverine",
-                "Iron Man",
-                "Doctor Doom",
-                "Morrigan",
-                "Tron",
-                "Trish",
-                "X-23",
-                "Storm",
-                "Thor",
-                "M.O.D.O.K.",
-                "Felicia",
-                "Spencer",
-                "Viewtiful Joe",
-                "Spider-Man",
-                "Sentinel",
-                "Hulk",
-                "Super-Skrull",
-                "Hsien-Ko",
-                "Haggar",
-                "C. Viper",
-                "Amaterasu",
-                "Phoenix",
-                "Magneto",
-                "She-Hulk",
-                "Taskmaster"
-            ]
-        },
-        {
-            "name": "Marvel%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Right Side:all|"
-        },
-        {
-            "name": "Capcom%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Left Side:all|"
-        },
-        {
-            "name": "Stars%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "{ItemValue(star:10)} and {ItemValue(coins:10)}"
-        }
-    ]
-}
-
+[
+    {
+        "name": "QP Campaign: Episode 1",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign: Episode 2",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign: Episode 3",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign: Episode 4",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign: Episode 5",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign: Final Episode",
+        "category": [
+            "(Campaign) QP Campaign"
+        ],
+        "requires": "|QP Campaign|"
+    },
+    {
+        "name": "QP Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) QP Campaign"
+        ],
+        "requires": "|QP Campaign|",
+        "place_item": [
+            "QP Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Suguri Campaign: Episode 1",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign: Episode 2",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign: Episode 3",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign: Episode 4",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign: Episode 5",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign: Final Episode",
+        "category": [
+            "(Campaign) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|"
+    },
+    {
+        "name": "Suguri Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) Suguri Campaign"
+        ],
+        "requires": "|Suguri Campaign|",
+        "place_item": [
+            "Suguri Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Marc Campaign: Episode 1",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign: Episode 2",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign: Episode 3",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign: Episode 4",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign: Episode 5",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign: Final Episode",
+        "category": [
+            "(Campaign) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|"
+    },
+    {
+        "name": "Marc Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) Marc Campaign"
+        ],
+        "requires": "|Marc Campaign|",
+        "place_item": [
+            "Marc Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Kai Campaign: Episode 1",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign: Episode 2",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign: Episode 3",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign: Episode 4",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign: Episode 5",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign: Final Episode",
+        "category": [
+            "(Campaign) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|"
+    },
+    {
+        "name": "Kai Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) Kai Campaign"
+        ],
+        "requires": "|Kai Campaign|",
+        "place_item": [
+            "Kai Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Star Breaker Campaign: Episode 1",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign: Episode 2",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign: Episode 3",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign: Episode 4",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign: Episode 5",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign: Final Episode",
+        "category": [
+            "(Campaign) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|"
+    },
+    {
+        "name": "Star Breaker Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) Star Breaker Campaign"
+        ],
+        "requires": "|Star Breaker Campaign|",
+        "place_item": [
+            "Star Breaker Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Sweet Breaker Campaign: Episode 1",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign: Episode 2",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign: Episode 3",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign: Episode 4",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign: Episode 5",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign: Final Episode",
+        "category": [
+            "(Campaign) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|"
+    },
+    {
+        "name": "Sweet Breaker Campaign (All Episodes)",
+        "category": [
+            "(Campaign Completion) Sweet Breaker Campaign"
+        ],
+        "requires": "|Sweet Breaker Campaign|",
+        "place_item": [
+            "Sweet Breaker Campaign (All Episodes)"
+        ]
+    },
+    {
+        "name": "Girl Power: Episode 1",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 2",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 3",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 4",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 5",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 6",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 7",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 8",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Episode 9",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power: Final Episode",
+        "category": [
+            "(Campaign) Girl Power"
+        ],
+        "requires": "|Girl Power|"
+    },
+    {
+        "name": "Girl Power (All Episodes)",
+        "category": [
+            "(Campaign Completion) Girl Power"
+        ],
+        "requires": "|Girl Power|",
+        "place_item": [
+            "Girl Power (All Episodes)"
+        ]
+    },
+    {
+        "name": "Crossed Christmases: Episode 1",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases: Episode 2",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases: Episode 3",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases: Episode 4",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases: Episode 5",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases: Final Episode",
+        "category": [
+            "(Campaign) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|"
+    },
+    {
+        "name": "Crossed Christmases (All Episodes)",
+        "category": [
+            "(Campaign Completion) Crossed Christmases"
+        ],
+        "requires": "|Crossed Christmases|",
+        "place_item": [
+            "Crossed Christmases (All Episodes)"
+        ]
+    },
+    {
+        "name": "Old Guardians: Episode 1",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 2",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 3",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 4",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 5",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 6",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 7",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 8",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Episode 9",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians: Final Episode",
+        "category": [
+            "(Campaign) Old Guardians"
+        ],
+        "requires": "|Old Guardians|"
+    },
+    {
+        "name": "Old Guardians (All Episodes)",
+        "category": [
+            "(Campaign Completion) Old Guardians"
+        ],
+        "requires": "|Old Guardians|",
+        "place_item": [
+            "Old Guardians (All Episodes)"
+        ]
+    },
+    {
+        "name": "Wanderers: Episode 1",
+        "category": [
+            "(Campaign) Wanderers"
+        ],
+        "requires": "|Wanderers|"
+    },
+    {
+        "name": "Wanderers: Episode 2",
+        "category": [
+            "(Campaign) Wanderers"
+        ],
+        "requires": "|Wanderers|"
+    },
+    {
+        "name": "Wanderers: Episode 3",
+        "category": [
+            "(Campaign) Wanderers"
+        ],
+        "requires": "|Wanderers|"
+    },
+    {
+        "name": "Wanderers: Episode 4",
+        "category": [
+            "(Campaign) Wanderers"
+        ],
+        "requires": "|Wanderers|"
+    },
+    {
+        "name": "Wanderers: Final Episode",
+        "category": [
+            "(Campaign) Wanderers"
+        ],
+        "requires": "|Wanderers|"
+    },
+    {
+        "name": "Wanderers (All Episodes)",
+        "category": [
+            "(Campaign Completion) Wanderers"
+        ],
+        "requires": "|Wanderers|",
+        "place_item": [
+            "Wanderers (All Episodes)"
+        ]
+    },
+    {
+        "name": "Waruda Prison Break: Episode 1",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break: Episode 2",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break: Episode 3",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break: Episode 4",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break: Episode 5",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break: Final Episode",
+        "category": [
+            "(Campaign) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|"
+    },
+    {
+        "name": "Waruda Prison Break (All Episodes)",
+        "category": [
+            "(Campaign Completion) Waruda Prison Break"
+        ],
+        "requires": "|Waruda Prison Break|",
+        "place_item": [
+            "Waruda Prison Break (All Episodes)"
+        ]
+    },
+    {
+        "name": "Midnight = Kemonomimi",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Midnight = Kemonomimi|"
+    },
+    {
+        "name": "Midnight = Kemonomimi (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Midnight = Kemonomimi|",
+        "place_item": [
+            "Midnight = Kemonomimi (Complete)"
+        ]
+    },
+    {
+        "name": "Struggle of the Cyborg",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Struggle of the Cyborg|"
+    },
+    {
+        "name": "Struggle of the Cyborg (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Struggle of the Cyborg|",
+        "place_item": [
+            "Struggle of the Cyborg (Complete)"
+        ]
+    },
+    {
+        "name": "Twilight of the Pilots",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Twilight of the Pilots|"
+    },
+    {
+        "name": "Twilight of the Pilots (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Twilight of the Pilots|",
+        "place_item": [
+            "Twilight of the Pilots (Complete)"
+        ]
+    },
+    {
+        "name": "Mysterious Space Odyssey",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Mysterious Space Odyssey|"
+    },
+    {
+        "name": "Mysterious Space Odyssey (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Mysterious Space Odyssey|",
+        "place_item": [
+            "Mysterious Space Odyssey (Complete)"
+        ]
+    },
+    {
+        "name": "Tomomo Hell",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Tomomo Hell|"
+    },
+    {
+        "name": "Tomomo Hell (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Tomomo Hell|",
+        "place_item": [
+            "Tomomo Hell (Complete)"
+        ]
+    },
+    {
+        "name": "Mio's Dark Citadel",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Mio's Dark Citadel|"
+    },
+    {
+        "name": "Mio's Dark Citadel (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Mio's Dark Citadel|",
+        "place_item": [
+            "Mio's Dark Citadel (Complete)"
+        ]
+    },
+    {
+        "name": "Secret Santa",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Secret Santa|"
+    },
+    {
+        "name": "Secret Santa (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Secret Santa|",
+        "place_item": [
+            "Secret Santa (Complete)"
+        ]
+    },
+    {
+        "name": "Chaos of the Sweet Gods",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Chaos of the Sweet Gods|"
+    },
+    {
+        "name": "Chaos of the Sweet Gods (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Chaos of the Sweet Gods|",
+        "place_item": [
+            "Chaos of the Sweet Gods (Complete)"
+        ]
+    },
+    {
+        "name": "Game Night of the Witches",
+        "category": [
+            "(Extras)"
+        ],
+        "requires": "|Game Night of the Witches|"
+    },
+    {
+        "name": "Game Night of the Witches (All Episodes)",
+        "category": [
+            "(Extras Completion)"
+        ],
+        "requires": "|Game Night of the Witches|",
+        "place_item": [
+            "Game Night of the Witches (Complete)"
+        ]
+    },
+    {
+        "name": "QP: Win a game after bringing 10 unique cards",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Yuki: Win a game with Wins",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Aru: Cause Other Players to draw 4+ Cards in one Turn",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Suguri: Roll a movement of 12 or higher.",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Hime: KO 2 players in a single turn",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Sora: KO a Player from 6+ Spaces Away",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Marc: KO a Full HP player with x16 Big Rocket",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Fernet: Complete a Wins Norma of 4 or higher",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Peat: Successfully Evade after using your Hyper",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Kai: Complete a Story Mission",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Marie Poppo: KO a player with \"Reverse Attribute Field\"",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Tomomo: At any point, be the only standing player.",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Chicken: Land on your own Hyper",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Roboball: Obtain 5+ wins in a single game",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Seagull: Play your Hyper and a Battle Card together",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Manager: KO the field boss",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Shifu Robot: KO the field boss",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Flying Castle: KO the field boss",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Mio: 50 or more stars from Magical Inferno",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Syura: KO a player while at 1 HP",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Nanako: Gain Atleast 3 ATK from your Hyper",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Saki: KO a player who lands on your Hyper",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Kyousuke: Use 2 Hypers in 1 Game",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Krilalaris: Increase your Max HP to 8",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Kae: Roll a 9+ Attack (After Modifiers)",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Alte: Self-destruct a boss",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Kyoko: Survive a match without being KO'd by another player",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Sham: Force a player to fight the boss",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Sherry: KO another player or the field boss with Shield Counter",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "StarBreaker: Hold 200 or more Stars",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Sweet Breaker: Use Melting Memories to flip 3 cards from a single player",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Nath: Reach 3 stacks of Active Extension",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Mimyuu: Have any player draw Evil Spy Work - Execution off of Passionate Research",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Tomato: KO a player within one chapter of them KOing Mimyuu",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Kiriko: Lower your Max HP to 2",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "NoName: KO a player in Head Form",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Ceoreparque: Complete a Norma two consecutive chapters in a row",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Miusaki: Win a battle where Final Battle is played",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Yuki (Dangerous): Complete a Wins Norma of 4 or higher",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Tomomo (Casual): Hold 3+ Hypers at Once",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Tsih: Hold 3 Gifts",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "Tequila: KO another player while you have 1 HP",
+        "category": [
+            "(Goals)"
+        ]
+    },
+    {
+        "name": "69,420,000,000 Oranges",
+        "category": [
+            "((Victory))"
+        ],
+        "requires": "|@Completed Campaigns:80%|",
+        "victory": true
+    }
+]

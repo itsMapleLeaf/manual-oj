@@ -1,409 +1,1720 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
-    "data": [
-        {
-            "name": "Jill",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "progression": true
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
-            "progression": true
-        },
-        {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
+[
+    {
+        "name": "QP Campaign",
+        "category": [
+            "Campaigns"
+        ],
         "progression": true
-        },
-        {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Strider Hiryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix Wright",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Nova",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ghost Rider",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Arthur",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Frank West",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Vergil",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Fist",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Zero",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dante",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Deadpool",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Tron",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chun-Li",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Trish",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "X-23",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Storm",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Thor",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "M.O.D.O.K.",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Felicia",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spencer",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Akuma",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Viewtiful Joe",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        }    ]
-
-}
+    },
+    {
+        "name": "QP Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Suguri Campaign",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Suguri Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Marc Campaign",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Marc Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kai Campaign",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Kai Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Star Breaker Campaign",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Star Breaker Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sweet Breaker Campaign",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Sweet Breaker Campaign (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Girl Power",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Girl Power (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Crossed Christmases",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Crossed Christmases (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Old Guardians",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Old Guardians (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wanderers",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Wanderers (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Waruda Prison Break",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Waruda Prison Break (All Episodes)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Midnight = Kemonomimi",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Midnight = Kemonomimi (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Struggle of the Cyborg",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Struggle of the Cyborg (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Twilight of the Pilots",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Twilight of the Pilots (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mysterious Space Odyssey",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mysterious Space Odyssey (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Tomomo Hell",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Tomomo Hell (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mio's Dark Citadel",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Mio's Dark Citadel (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Secret Santa",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Secret Santa (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chaos of the Sweet Gods",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Chaos of the Sweet Gods (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Game Night of the Witches",
+        "category": [
+            "Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Game Night of the Witches (Complete)",
+        "category": [
+            "Completed Campaigns"
+        ],
+        "progression": true
+    },
+    {
+        "name": "QP",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Yuki",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aru",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Suguri",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Hime",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sora",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Marc",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Fernet",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Peat",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kai",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Marie Poppo",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Tomomo",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Chicken",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Robo Ball",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Seagull",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Store Manager",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shifu Robot",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Flying Castle",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Syura",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Nanako",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "QP (Dangerous)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Saki",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kyousuke",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Krilalaris",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kae",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Alte",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kyoko",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Marie Poppo (Mixed)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sham",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sherry",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sora (Military)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Star Breaker",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sweet Breaker",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Aru (Scramble)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Nath",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mimyuu",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Tomato",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kiriko",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "NoName",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "NoName (Head)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Ceoreparque",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Miusaki",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Yuki (Dangerous)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Tomomo (Casual)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Suguri (Ver.2)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Tsih",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Tequila",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mei",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Natsumi",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Nico",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Arthur",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Iru",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mira",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Cuties",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Yuuki",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Islay",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mio",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Suguri (46 Billion Years)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sumika",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Ellie",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lulu",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Marc (Pilot)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Alicianrone",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Teotoratta",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Arnelle",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Maynie",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kyupita",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Chris",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Halena",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Cook",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Lone Rider",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Merchant",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Hime (Moonlight)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Fernet (Noble)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Malt",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mescal",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Shifu",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Hoshino Reika",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Watty",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Pomeranius",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sweet Creator",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Saki (Sweet Maker)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Natsumi (Sweet Blogger)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mio (Festive)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Krilalaris (Pajamas)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mimyuu (Jailbird)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Mother Poppo",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Dark Lulu",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Hyper Ellie",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Kai (Hero)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Ambush",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Backdoor Trade",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Completion Reward",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Dash!",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Extend",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Flip Out",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Gentleman's Battle",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Lonely Chariot",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Long-Distance Shot",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Mimic",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "My Wild Friends",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Nice Jingle",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Nice Present",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Overtime",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Passionate Research",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Path Blockers",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "President's Privilege",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Princess's Privilege",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Pudding",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Saki's Cookie",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Stiff Crystal",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Treasure Thief",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Warp Control",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Accel Hyper",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Big Magnum",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Contest of Cuteness",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Dark Side of Business",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Deceptive Disarming",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Desperate Modification",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Extension",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Final Battle",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "I'm on Fire!",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Portable Pudding",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Quick Restoration",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Rainbow-Colored Circle",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Rbits",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Reverse Attribute Field",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Serious Battle",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Shield",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Shield Counter",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Sink or Swim",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Tactical Retreat",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Assault",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Bad Pudding",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "BanaNana",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Bank of Poppo",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Brutal Prank",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Dangerous Pudding",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Encore",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Exchange",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Flamethrower",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "For the Future of the Toy Store",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Go Away",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Heat 300%",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Invasion",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "I Wanna See You",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Mimyuu's Hammer",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Piggy Bank",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Piyopiyo Procession",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Poppoformation",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Present Thief",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Sealed Memories",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Sky Restaurant 'Pures'",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Tragedy in the Dead of Night",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Wanted",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Accelerating Sky",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Cloud of Seagulls",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Dinner",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Forced Revival",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Gift Exchange",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Here and There",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Holy Night",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Home Improvement",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Indiscriminate Fire Support",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Little War",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Mix Phenomenon",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Oh My Friend",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Out of Ammo",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Party Time",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Pet Snacks",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Play of the Gods",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Rebellion",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Scary Solicitation",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Scrambled Eve",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Sealed Guardian",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Serene Hush",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Star-Blasting Light",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Super All-Out Mode",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Sweet Destroyer",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Unpaid Work",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "We Are Waruda",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Bloodlust",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Lost Child",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Lucky Charm",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Lucky Sevens",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Metallic Monocoque",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Nanako's Bit",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Poppo the Snatcher",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Price of Power",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Unlucky Charm",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    },
+    {
+        "name": "Windy Enchantment",
+        "category": [
+            "Cards"
+        ],
+        "count": 2,
+        "useful": true
+    }
+]
