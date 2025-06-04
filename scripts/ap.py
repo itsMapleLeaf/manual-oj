@@ -9,7 +9,7 @@ from typing import Any, Literal, NotRequired, Optional, TypedDict, Unpack
 
 class CategoryArgs(TypedDict):
     hidden: NotRequired[bool]
-    yaml_option: NotRequired[str]
+    yaml_option: NotRequired[list[str]]
 
 
 class Category(CategoryArgs):
@@ -190,8 +190,8 @@ class Builder:
                 {
                     "core": {},
                     "user": {
-                        k: without_keys(opt, "name", "type")
-                        for k, opt in self.categories.items()
+                        k: {"type": "Toggle", **without_keys(opt, "name", "type")}
+                        for k, opt in self.options.items()
                     },
                 },
                 indent=4,

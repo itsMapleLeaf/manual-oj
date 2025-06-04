@@ -1,36 +1,40 @@
 {
     "core": {},
     "user": {
-        "Completed Campaigns": {
-            "hidden": true
+        "enable_breaker_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Breaker Pack DLC.",
+            "default": true
         },
-        "Breaker Pack DLC": {
-            "hidden": true,
-            "yaml_option": "breaker_pack"
+        "enable_witch_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Witch Pack DLC.",
+            "default": true
         },
-        "Witch Pack DLC": {
-            "hidden": true,
-            "yaml_option": "witch_pack"
+        "enable_toy_store_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Toy Store Pack DLC.",
+            "default": true
         },
-        "Toy Store Pack DLC": {
-            "hidden": true,
-            "yaml_option": "toy_store_pack"
+        "enable_old_guardian_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Old Guardian Pack DLC.",
+            "default": true
         },
-        "Old Guardian Pack DLC": {
-            "hidden": true,
-            "yaml_option": "old_guardian_pack"
+        "enable_wanderer_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Wanderer Pack DLC.",
+            "default": true
         },
-        "Wanderer Pack DLC": {
-            "hidden": true,
-            "yaml_option": "wanderer_pack"
+        "enable_waruda_prison_break_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Waruda Prison Break Pack DLC.",
+            "default": true
         },
-        "Waruda Prison Break Pack DLC": {
-            "hidden": true,
-            "yaml_option": "waruda_prison_break_pack"
-        },
-        "Alicianrone & Teotoratta Character Pack DLC": {
-            "hidden": true,
-            "yaml_option": "alicianrone_teotoratta_character_pack"
+        "enable_alicianrone_teotoratta_character_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Alicianrone & Teotoratta Character Pack DLC.",
+            "default": true
         }
     }
 }

@@ -39,14 +39,14 @@ class DlcCategoryResolver:
             return self.categories[name]
 
         dlc_option = builder.toggle_option(
-            to_snake_case(name),
+            f"enable_{to_snake_case(name)}_dlc",
             description=f"Enables the {name} DLC.",
             default=True,
         )
         dlc_category = builder.category(
             f"{name} DLC",
             hidden=True,
-            yaml_option=dlc_option["name"],
+            yaml_option=[dlc_option["name"]],
         )
         self.categories[name] = dlc_category
         return dlc_category
