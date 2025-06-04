@@ -1,67 +1,55 @@
-from os import environ
-import os
-import shutil
-from dataclasses import is_dataclass
-import dataclasses
-from dataclasses_json import DataClassJsonMixin, dataclass_json
-import json
+from dataclasses import dataclass
+from dataclasses_json import DataClassJsonMixin
 from pathlib import Path
-from typing import Dict, List, Optional, cast
+from typing import Optional
 from dotenv import load_dotenv
-from pydantic import BaseModel
+from . import ap
+from .utils import to_snake_case
 
 
-@dataclasses.dataclass
-class Item(DataClassJsonMixin):
-    name: str
-    category: Optional[list[str]] = None
-    count: Optional[int] = None
-    value: Optional[dict[str, int]] = None
-    progression: Optional[bool] = None
-    progression_skip_balancing: Optional[bool] = None
-    useful: Optional[bool] = None
-    trap: Optional[bool] = None
-    filler: Optional[bool] = None
-    early: Optional[bool] = None
-    local: Optional[bool] = None
-    local_early: Optional[bool] = None
+@dataclass
+class GameCampaign(DataClassJsonMixin):
+    episodes: int
+    dlc: Optional[str] = None
 
 
-@dataclass_json
-@dataclasses.dataclass
-class Location(DataClassJsonMixin):
-    name: str
-    category: Optional[list[str]] = None
-    requires: Optional[str] = None
-    region: Optional[str] = None
-    place_item: Optional[list[str]] = None
-    place_item_category: Optional[list[str]] = None
-    victory: Optional[bool] = None
+@dataclass
+class GameExtra(DataClassJsonMixin):
+    dlc: Optional[str] = None
 
 
-@dataclass_json
-@dataclasses.dataclass
+@dataclass
 class GameContent(DataClassJsonMixin):
-    campaigns: Dict[str, List[str]]
-    characters: List[str]
-    cards: List[str]
-    goals: List[str]
+    campaigns: dict[str, GameCampaign]
+    extra_episodes: dict[str, GameExtra]
+    characters: list[str]
+    cards: list[str]
+    goals: list[str]
 
 
-@dataclass_json
-@dataclasses.dataclass
-class GameInfo(DataClassJsonMixin):
-    game: str
-    creator: str
+class DlcCategoryResolver:
+    categories: dict[str, ap.Category] = {}
+    builder: ap.Builder
 
+    def __init__(self, builder: ap.Builder) -> None:
+        self.builder = builder
 
-def remove_none(data):
-    if isinstance(data, dict):
-        return {k: remove_none(v) for k, v in data.items() if v is not None}
-    elif isinstance(data, list):
-        return [remove_none(item) for item in data]
-    else:
-        return data
+    def resolve(self, name: str):
+        if name in self.categories:
+            return self.categories[name]
+
+        dlc_option = builder.toggle_option(
+            to_snake_case(name),
+            description=f"Enables the {name} DLC.",
+            default=True,
+        )
+        dlc_category = builder.category(
+            f"{name} DLC",
+            hidden=True,
+            yaml_option=dlc_option["name"],
+        )
+        self.categories[name] = dlc_category
+        return dlc_category
 
 
 if __name__ == "__main__":
@@ -71,131 +59,103 @@ if __name__ == "__main__":
         Path("src/data/content.json").read_text(encoding="utf-8")
     )
 
-    items: list[Item] = []
-    locations: list[Location] = []
+    builder = ap.Builder()
+    completed_campaigns_category = builder.category("Completed Campaigns", hidden=True)
+    dlc_category_resolver = DlcCategoryResolver(builder)
 
-    campaigns = content.campaigns.copy()
-    extras = campaigns["Extras"]
-    campaigns.pop("Extras")
-
-    for campaign, episodes in campaigns.items():
-        unlock_item = Item(
-            campaign,
-            category=["Campaigns"],
-            progression=True,
+    for campaign_name, campaign_info in content.campaigns.items():
+        dlc_categories = (
+            [dlc_category_resolver.resolve(campaign_info.dlc)]
+            if campaign_info.dlc
+            else []
         )
-        items.append(unlock_item)
 
-        for episode in episodes:
-            locations.append(
-                Location(
-                    f"{campaign}: {episode}",
-                    category=[f"(Campaign) {campaign}"],
-                    requires=f"|{unlock_item.name}|",
-                )
+        campaign_unlock_item = builder.item(
+            (
+                f"{campaign_name} (Campaign)"
+                if campaign_name in content.characters
+                else campaign_name
+            ),
+            progression=True,
+            category=["Campaigns", *dlc_categories],
+        )
+
+        for episode_index in range(campaign_info.episodes):
+            builder.location(
+                f"{campaign_name} (Episode {episode_index + 1})",
+                requires=campaign_unlock_item,
+                category=[f"(Campaign) {campaign_name}", *dlc_categories],
             )
 
-        completion_item = Item(
-            f"{campaign} (All Episodes)",
-            category=["Completed Campaigns"],
-            progression=True,
-        )
-        items.append(completion_item)
-
-        locations.append(
-            Location(
-                completion_item.name,
-                category=[f"(Campaign Completion) {campaign}"],
-                requires=f"|{unlock_item.name}|",
-                place_item=[completion_item.name],
-            )
+        builder.location(
+            f"{campaign_name} (Final Episode)",
+            requires=campaign_unlock_item,
+            category=[f"(Campaign) {campaign_name}", *dlc_categories],
         )
 
-    for campaign in extras:
-        unlock_item = Item(
-            campaign,
-            category=["Campaigns"],
+        campaign_completion_item = builder.item(
+            f"{campaign_name} (All Episodes)",
             progression=True,
+            category=[completed_campaigns_category, *dlc_categories],
         )
-        items.append(unlock_item)
 
-        completion_item = Item(
-            f"{campaign} (Complete)",
-            category=["Completed Campaigns"],
-            progression=True,
+        builder.location(
+            campaign_completion_item["name"],
+            place_item=[campaign_completion_item["name"]],
+            requires=campaign_unlock_item,
+            category=[f"(Campaign Completion) {campaign_name}", *dlc_categories],
         )
-        items.append(completion_item)
+
+    for episode_name, episode_info in content.extra_episodes.items():
+        dlc_categories = (
+            [dlc_category_resolver.resolve(episode_info.dlc)]
+            if episode_info.dlc
+            else []
+        )
+
+        episode_unlock_item = builder.item(
+            f"{episode_name} (Extra)",
+            progression=True,
+            category=["Campaigns", *dlc_categories],
+        )
+
+        episode_completion_item = builder.item(
+            f"{episode_name} (Complete)",
+            progression=True,
+            category=[completed_campaigns_category, *dlc_categories],
+        )
 
         # one location for finding a randomized item, and another for the actual progression
-        locations.append(
-            Location(
-                campaign,
-                category=["(Extras)"],
-                requires=f"|{unlock_item.name}|",
-            )
+        builder.location(
+            episode_name,
+            requires=episode_unlock_item,
+            category=["(Extras)", *dlc_categories],
         )
-        locations.append(
-            Location(
-                f"{campaign} (All Episodes)",
-                category=["(Extras Completion)"],
-                requires=f"|{unlock_item.name}|",
-                place_item=[completion_item.name],
-            )
+        builder.location(
+            f"{episode_name} (Completion)",
+            place_item=[episode_completion_item["name"]],
+            requires=episode_unlock_item,
+            category=["(Extras Completion)", *dlc_categories],
         )
 
     for character in content.characters:
-        items.append(
-            Item(
-                character,
-                category=["Characters"],
-                useful=True,
-            )
+        builder.item(
+            character,
+            useful=True,
+            category=["Characters"],
         )
 
     for card in content.cards:
-        items.append(Item(card, category=["Cards"], useful=True, count=2))
+        builder.item(card, count=2, useful=True, category=["Cards"])
 
     for goal in content.goals:
-        locations.append(Location(goal, category=["(Goals)"]))
+        builder.location(goal, category=["(Goals)"])
 
-    locations.append(
-        Location(
-            "69,420,000,000 Oranges",
-            category=["((Victory))"],
-            requires="|@Completed Campaigns:80%|",
-            victory=True,
-        )
+    builder.location(
+        "69,420,000,000 Oranges",
+        victory=True,
+        requires=ap.some_of(completed_campaigns_category, "80%"),
+        category=["((Victory))"],
     )
 
-    Path("src/data/items.json").write_text(
-        json.dumps(
-            [remove_none(dataclasses.asdict(item)) for item in items],
-            indent=4,
-        )
-    )
-
-    Path("src/data/locations.json").write_text(
-        json.dumps(
-            [remove_none(dataclasses.asdict(item)) for item in locations],
-            indent=4,
-        )
-    )
-
-    game_info = GameInfo.from_json(Path("src/data/game.json").read_text("utf-8"))
-    world_name = f"manual_{game_info.game}_{game_info.creator}"
-
-    source_dir = Path("src")
-    temp_dir = Path("dist") / world_name
-
-    if temp_dir.exists():
-        shutil.rmtree(temp_dir)
-    shutil.copytree(source_dir, temp_dir)
-
-    output_zip = shutil.make_archive(world_name, "zip", root_dir="dist", base_dir=".")
-    output_folder = (
-        os.getenv("OUTPUT_FOLDER") or "C:/ProgramData/Archipelago/custom_worlds"
-    )
-    shutil.move(
-        output_zip,
-        Path(output_folder) / f"{world_name}.apworld",
-    )
+    builder.build()

@@ -1,1720 +1,1738 @@
 [
     {
-        "name": "QP Campaign",
+        "name": "QP (Campaign)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "QP Campaign (All Episodes)",
+        "name": "QP (All Episodes)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Suguri Campaign",
+        "name": "Suguri (Campaign)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Suguri Campaign (All Episodes)",
+        "name": "Suguri (All Episodes)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Marc Campaign",
+        "name": "Marc (Campaign)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Marc Campaign (All Episodes)",
+        "name": "Marc (All Episodes)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Kai Campaign",
+        "name": "Kai (Campaign)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Kai Campaign (All Episodes)",
+        "name": "Kai (All Episodes)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Star Breaker Campaign",
+        "name": "Star Breaker (Campaign)",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
-        "name": "Star Breaker Campaign (All Episodes)",
+        "name": "Star Breaker (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
-        "name": "Sweet Breaker Campaign",
+        "name": "Sweet Breaker (Campaign)",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
-        "name": "Sweet Breaker Campaign (All Episodes)",
+        "name": "Sweet Breaker (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
         "name": "Girl Power",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Witch Pack DLC"
+        ]
     },
     {
         "name": "Girl Power (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Witch Pack DLC"
+        ]
     },
     {
         "name": "Crossed Christmases",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Toy Store Pack DLC"
+        ]
     },
     {
         "name": "Crossed Christmases (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Toy Store Pack DLC"
+        ]
     },
     {
         "name": "Old Guardians",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Old Guardian Pack DLC"
+        ]
     },
     {
         "name": "Old Guardians (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Old Guardian Pack DLC"
+        ]
     },
     {
         "name": "Wanderers",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Wanderer Pack DLC"
+        ]
     },
     {
         "name": "Wanderers (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Wanderer Pack DLC"
+        ]
     },
     {
         "name": "Waruda Prison Break",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Waruda Prison Break Pack DLC"
+        ]
     },
     {
         "name": "Waruda Prison Break (All Episodes)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Waruda Prison Break Pack DLC"
+        ]
     },
     {
-        "name": "Midnight = Kemonomimi",
+        "name": "Midnight = Kemonomimi (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Midnight = Kemonomimi (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Struggle of the Cyborg",
+        "name": "Struggle of the Cyborg (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Struggle of the Cyborg (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Twilight of the Pilots",
+        "name": "Twilight of the Pilots (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Twilight of the Pilots (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Mysterious Space Odyssey",
+        "name": "Mysterious Space Odyssey (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Mysterious Space Odyssey (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Tomomo Hell",
+        "name": "Tomomo Hell (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Tomomo Hell (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Mio's Dark Citadel",
+        "name": "Mio's Dark Citadel (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Mio's Dark Citadel (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Secret Santa",
+        "name": "Secret Santa (Extra)",
+        "progression": true,
         "category": [
             "Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
         "name": "Secret Santa (Complete)",
+        "progression": true,
         "category": [
             "Completed Campaigns"
-        ],
-        "progression": true
+        ]
     },
     {
-        "name": "Chaos of the Sweet Gods",
+        "name": "Chaos of the Sweet Gods (Extra)",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
         "name": "Chaos of the Sweet Gods (Complete)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Breaker Pack DLC"
+        ]
     },
     {
-        "name": "Game Night of the Witches",
+        "name": "Game Night of the Witches (Extra)",
+        "progression": true,
         "category": [
-            "Campaigns"
-        ],
-        "progression": true
+            "Campaigns",
+            "Alicianrone & Teotoratta Character Pack DLC"
+        ]
     },
     {
         "name": "Game Night of the Witches (Complete)",
+        "progression": true,
         "category": [
-            "Completed Campaigns"
-        ],
-        "progression": true
+            "Completed Campaigns",
+            "Alicianrone & Teotoratta Character Pack DLC"
+        ]
     },
     {
         "name": "QP",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Yuki",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Aru",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Suguri",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Hime",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sora",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Marc",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Fernet",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Peat",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kai",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Marie Poppo",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Tomomo",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Chicken",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Robo Ball",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Seagull",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Store Manager",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Shifu Robot",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Flying Castle",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Syura",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Nanako",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "QP (Dangerous)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Saki",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kyousuke",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Krilalaris",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kae",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Alte",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kyoko",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Marie Poppo (Mixed)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sham",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sherry",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sora (Military)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Star Breaker",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sweet Breaker",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Aru (Scramble)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Nath",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mimyuu",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Tomato",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kiriko",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "NoName",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "NoName (Head)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Ceoreparque",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Miusaki",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Yuki (Dangerous)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Tomomo (Casual)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Suguri (Ver.2)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Tsih",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Tequila",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mei",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Natsumi",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Nico",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Arthur",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Iru",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mira",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Cuties",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Yuuki",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Islay",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mio",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Suguri (46 Billion Years)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sumika",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Ellie",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Lulu",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Marc (Pilot)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Alicianrone",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Teotoratta",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Arnelle",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Maynie",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kyupita",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Chris",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Halena",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Cook",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Lone Rider",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Merchant",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Hime (Moonlight)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Fernet (Noble)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Malt",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mescal",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Shifu",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Hoshino Reika",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Watty",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Pomeranius",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Sweet Creator",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Saki (Sweet Maker)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Natsumi (Sweet Blogger)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mio (Festive)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Krilalaris (Pajamas)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mimyuu (Jailbird)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Mother Poppo",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Dark Lulu",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Hyper Ellie",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Kai (Hero)",
+        "useful": true,
         "category": [
             "Characters"
-        ],
-        "useful": true
+        ]
     },
     {
         "name": "Ambush",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Backdoor Trade",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Completion Reward",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Dash!",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Extend",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Flip Out",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Gentleman's Battle",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Lonely Chariot",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Long-Distance Shot",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Mimic",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "My Wild Friends",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Nice Jingle",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Nice Present",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Overtime",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Passionate Research",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Path Blockers",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "President's Privilege",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Princess's Privilege",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Pudding",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Saki's Cookie",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Stiff Crystal",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Treasure Thief",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Warp Control",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Accel Hyper",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Big Magnum",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Contest of Cuteness",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Dark Side of Business",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Deceptive Disarming",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Desperate Modification",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Extension",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Final Battle",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "I'm on Fire!",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Portable Pudding",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Quick Restoration",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Rainbow-Colored Circle",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Rbits",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Reverse Attribute Field",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Serious Battle",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Shield",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Shield Counter",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Sink or Swim",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Tactical Retreat",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Assault",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Bad Pudding",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "BanaNana",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Bank of Poppo",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Brutal Prank",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Dangerous Pudding",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Encore",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Exchange",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Flamethrower",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "For the Future of the Toy Store",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Go Away",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Heat 300%",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Invasion",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "I Wanna See You",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Mimyuu's Hammer",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Piggy Bank",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Piyopiyo Procession",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Poppoformation",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Present Thief",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Sealed Memories",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Sky Restaurant 'Pures'",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Tragedy in the Dead of Night",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Wanted",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Accelerating Sky",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Cloud of Seagulls",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Dinner",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Forced Revival",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Gift Exchange",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Here and There",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Holy Night",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Home Improvement",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Indiscriminate Fire Support",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Little War",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Mix Phenomenon",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Oh My Friend",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Out of Ammo",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Party Time",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Pet Snacks",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Play of the Gods",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Rebellion",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Scary Solicitation",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Scrambled Eve",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Sealed Guardian",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Serene Hush",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Star-Blasting Light",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Super All-Out Mode",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Sweet Destroyer",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Unpaid Work",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "We Are Waruda",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Bloodlust",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Lost Child",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Lucky Charm",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Lucky Sevens",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Metallic Monocoque",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Nanako's Bit",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Poppo the Snatcher",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Price of Power",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Unlucky Charm",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     },
     {
         "name": "Windy Enchantment",
+        "count": 2,
+        "useful": true,
         "category": [
             "Cards"
-        ],
-        "count": 2,
-        "useful": true
+        ]
     }
 ]

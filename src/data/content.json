@@ -1,111 +1,60 @@
 {
     "campaigns": {
-        "QP Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Suguri Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Marc Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Kai Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Star Breaker Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Sweet Breaker Campaign": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Girl Power": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Episode 6",
-            "Episode 7",
-            "Episode 8",
-            "Episode 9",
-            "Final Episode"
-        ],
-        "Crossed Christmases": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Old Guardians": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Episode 6",
-            "Episode 7",
-            "Episode 8",
-            "Episode 9",
-            "Final Episode"
-        ],
-        "Wanderers": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Final Episode"
-        ],
-        "Waruda Prison Break": [
-            "Episode 1",
-            "Episode 2",
-            "Episode 3",
-            "Episode 4",
-            "Episode 5",
-            "Final Episode"
-        ],
-        "Extras": [
-            "Midnight = Kemonomimi",
-            "Struggle of the Cyborg",
-            "Twilight of the Pilots",
-            "Mysterious Space Odyssey",
-            "Tomomo Hell",
-            "Mio's Dark Citadel",
-            "Secret Santa",
-            "Chaos of the Sweet Gods",
-            "Game Night of the Witches"
-        ]
+        "QP": {
+            "episodes": 5
+        },
+        "Suguri": {
+            "episodes": 5
+        },
+        "Marc": {
+            "episodes": 5
+        },
+        "Kai": {
+            "episodes": 5
+        },
+        "Star Breaker": {
+            "episodes": 5,
+            "dlc": "Breaker Pack"
+        },
+        "Sweet Breaker": {
+            "episodes": 5,
+            "dlc": "Breaker Pack"
+        },
+        "Girl Power": {
+            "episodes": 9,
+            "dlc": "Witch Pack"
+        },
+        "Crossed Christmases": {
+            "episodes": 5,
+            "dlc": "Toy Store Pack"
+        },
+        "Old Guardians": {
+            "episodes": 9,
+            "dlc": "Old Guardian Pack"
+        },
+        "Wanderers": {
+            "episodes": 4,
+            "dlc": "Wanderer Pack"
+        },
+        "Waruda Prison Break": {
+            "episodes": 5,
+            "dlc": "Waruda Prison Break Pack"
+        }
+    },
+    "extra_episodes": {
+        "Midnight = Kemonomimi": {},
+        "Struggle of the Cyborg": {},
+        "Twilight of the Pilots": {},
+        "Mysterious Space Odyssey": {},
+        "Tomomo Hell": {},
+        "Mio's Dark Citadel": {},
+        "Secret Santa": {},
+        "Chaos of the Sweet Gods": {
+            "dlc": "Breaker Pack"
+        },
+        "Game Night of the Witches": {
+            "dlc": "Alicianrone & Teotoratta Character Pack"
+        }
     },
     "characters": [
         "QP",

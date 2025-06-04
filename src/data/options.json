@@ -1,6 +1,36 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {},
-    "user": {}
+    "user": {
+        "Completed Campaigns": {
+            "hidden": true
+        },
+        "Breaker Pack DLC": {
+            "hidden": true,
+            "yaml_option": "breaker_pack"
+        },
+        "Witch Pack DLC": {
+            "hidden": true,
+            "yaml_option": "witch_pack"
+        },
+        "Toy Store Pack DLC": {
+            "hidden": true,
+            "yaml_option": "toy_store_pack"
+        },
+        "Old Guardian Pack DLC": {
+            "hidden": true,
+            "yaml_option": "old_guardian_pack"
+        },
+        "Wanderer Pack DLC": {
+            "hidden": true,
+            "yaml_option": "wanderer_pack"
+        },
+        "Waruda Prison Break Pack DLC": {
+            "hidden": true,
+            "yaml_option": "waruda_prison_break_pack"
+        },
+        "Alicianrone & Teotoratta Character Pack DLC": {
+            "hidden": true,
+            "yaml_option": "alicianrone_teotoratta_character_pack"
+        }
+    }
 }

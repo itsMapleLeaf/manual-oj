@@ -1,777 +1,837 @@
 [
     {
-        "name": "QP Campaign: Episode 1",
+        "name": "QP (Episode 1)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign: Episode 2",
+        "name": "QP (Episode 2)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign: Episode 3",
+        "name": "QP (Episode 3)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign: Episode 4",
+        "name": "QP (Episode 4)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign: Episode 5",
+        "name": "QP (Episode 5)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign: Final Episode",
+        "name": "QP (Final Episode)",
         "category": [
-            "(Campaign) QP Campaign"
+            "(Campaign) QP"
         ],
-        "requires": "|QP Campaign|"
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) QP Campaign"
-        ],
-        "requires": "|QP Campaign|",
+        "name": "QP (All Episodes)",
         "place_item": [
-            "QP Campaign (All Episodes)"
-        ]
+            "QP (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) QP"
+        ],
+        "requires": "|QP (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Episode 1",
+        "name": "Suguri (Episode 1)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Episode 2",
+        "name": "Suguri (Episode 2)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Episode 3",
+        "name": "Suguri (Episode 3)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Episode 4",
+        "name": "Suguri (Episode 4)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Episode 5",
+        "name": "Suguri (Episode 5)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign: Final Episode",
+        "name": "Suguri (Final Episode)",
         "category": [
-            "(Campaign) Suguri Campaign"
+            "(Campaign) Suguri"
         ],
-        "requires": "|Suguri Campaign|"
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Suguri Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) Suguri Campaign"
-        ],
-        "requires": "|Suguri Campaign|",
+        "name": "Suguri (All Episodes)",
         "place_item": [
-            "Suguri Campaign (All Episodes)"
-        ]
+            "Suguri (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) Suguri"
+        ],
+        "requires": "|Suguri (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Episode 1",
+        "name": "Marc (Episode 1)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Episode 2",
+        "name": "Marc (Episode 2)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Episode 3",
+        "name": "Marc (Episode 3)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Episode 4",
+        "name": "Marc (Episode 4)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Episode 5",
+        "name": "Marc (Episode 5)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign: Final Episode",
+        "name": "Marc (Final Episode)",
         "category": [
-            "(Campaign) Marc Campaign"
+            "(Campaign) Marc"
         ],
-        "requires": "|Marc Campaign|"
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) Marc Campaign"
-        ],
-        "requires": "|Marc Campaign|",
+        "name": "Marc (All Episodes)",
         "place_item": [
-            "Marc Campaign (All Episodes)"
-        ]
+            "Marc (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) Marc"
+        ],
+        "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Episode 1",
+        "name": "Kai (Episode 1)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Episode 2",
+        "name": "Kai (Episode 2)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Episode 3",
+        "name": "Kai (Episode 3)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Episode 4",
+        "name": "Kai (Episode 4)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Episode 5",
+        "name": "Kai (Episode 5)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign: Final Episode",
+        "name": "Kai (Final Episode)",
         "category": [
-            "(Campaign) Kai Campaign"
+            "(Campaign) Kai"
         ],
-        "requires": "|Kai Campaign|"
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Kai Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) Kai Campaign"
-        ],
-        "requires": "|Kai Campaign|",
+        "name": "Kai (All Episodes)",
         "place_item": [
-            "Kai Campaign (All Episodes)"
-        ]
+            "Kai (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) Kai"
+        ],
+        "requires": "|Kai (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Episode 1",
+        "name": "Star Breaker (Episode 1)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Episode 2",
+        "name": "Star Breaker (Episode 2)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Episode 3",
+        "name": "Star Breaker (Episode 3)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Episode 4",
+        "name": "Star Breaker (Episode 4)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Episode 5",
+        "name": "Star Breaker (Episode 5)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign: Final Episode",
+        "name": "Star Breaker (Final Episode)",
         "category": [
-            "(Campaign) Star Breaker Campaign"
+            "(Campaign) Star Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Star Breaker Campaign|"
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) Star Breaker Campaign"
-        ],
-        "requires": "|Star Breaker Campaign|",
+        "name": "Star Breaker (All Episodes)",
         "place_item": [
-            "Star Breaker Campaign (All Episodes)"
-        ]
+            "Star Breaker (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) Star Breaker",
+            "Breaker Pack DLC"
+        ],
+        "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Episode 1",
+        "name": "Sweet Breaker (Episode 1)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Episode 2",
+        "name": "Sweet Breaker (Episode 2)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Episode 3",
+        "name": "Sweet Breaker (Episode 3)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Episode 4",
+        "name": "Sweet Breaker (Episode 4)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Episode 5",
+        "name": "Sweet Breaker (Episode 5)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign: Final Episode",
+        "name": "Sweet Breaker (Final Episode)",
         "category": [
-            "(Campaign) Sweet Breaker Campaign"
+            "(Campaign) Sweet Breaker",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Sweet Breaker Campaign|"
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Sweet Breaker Campaign (All Episodes)",
-        "category": [
-            "(Campaign Completion) Sweet Breaker Campaign"
-        ],
-        "requires": "|Sweet Breaker Campaign|",
+        "name": "Sweet Breaker (All Episodes)",
         "place_item": [
-            "Sweet Breaker Campaign (All Episodes)"
-        ]
+            "Sweet Breaker (All Episodes)"
+        ],
+        "category": [
+            "(Campaign Completion) Sweet Breaker",
+            "Breaker Pack DLC"
+        ],
+        "requires": "|Sweet Breaker (Campaign)|"
     },
     {
-        "name": "Girl Power: Episode 1",
+        "name": "Girl Power (Episode 1)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 2",
+        "name": "Girl Power (Episode 2)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 3",
+        "name": "Girl Power (Episode 3)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 4",
+        "name": "Girl Power (Episode 4)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 5",
+        "name": "Girl Power (Episode 5)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 6",
+        "name": "Girl Power (Episode 6)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 7",
+        "name": "Girl Power (Episode 7)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 8",
+        "name": "Girl Power (Episode 8)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Episode 9",
+        "name": "Girl Power (Episode 9)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power: Final Episode",
+        "name": "Girl Power (Final Episode)",
         "category": [
-            "(Campaign) Girl Power"
+            "(Campaign) Girl Power",
+            "Witch Pack DLC"
         ],
         "requires": "|Girl Power|"
     },
     {
         "name": "Girl Power (All Episodes)",
-        "category": [
-            "(Campaign Completion) Girl Power"
-        ],
-        "requires": "|Girl Power|",
         "place_item": [
             "Girl Power (All Episodes)"
-        ]
+        ],
+        "category": [
+            "(Campaign Completion) Girl Power",
+            "Witch Pack DLC"
+        ],
+        "requires": "|Girl Power|"
     },
     {
-        "name": "Crossed Christmases: Episode 1",
+        "name": "Crossed Christmases (Episode 1)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Crossed Christmases: Episode 2",
+        "name": "Crossed Christmases (Episode 2)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Crossed Christmases: Episode 3",
+        "name": "Crossed Christmases (Episode 3)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Crossed Christmases: Episode 4",
+        "name": "Crossed Christmases (Episode 4)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Crossed Christmases: Episode 5",
+        "name": "Crossed Christmases (Episode 5)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Crossed Christmases: Final Episode",
+        "name": "Crossed Christmases (Final Episode)",
         "category": [
-            "(Campaign) Crossed Christmases"
+            "(Campaign) Crossed Christmases",
+            "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
     },
     {
         "name": "Crossed Christmases (All Episodes)",
-        "category": [
-            "(Campaign Completion) Crossed Christmases"
-        ],
-        "requires": "|Crossed Christmases|",
         "place_item": [
             "Crossed Christmases (All Episodes)"
-        ]
+        ],
+        "category": [
+            "(Campaign Completion) Crossed Christmases",
+            "Toy Store Pack DLC"
+        ],
+        "requires": "|Crossed Christmases|"
     },
     {
-        "name": "Old Guardians: Episode 1",
+        "name": "Old Guardians (Episode 1)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 2",
+        "name": "Old Guardians (Episode 2)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 3",
+        "name": "Old Guardians (Episode 3)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 4",
+        "name": "Old Guardians (Episode 4)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 5",
+        "name": "Old Guardians (Episode 5)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 6",
+        "name": "Old Guardians (Episode 6)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 7",
+        "name": "Old Guardians (Episode 7)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 8",
+        "name": "Old Guardians (Episode 8)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Episode 9",
+        "name": "Old Guardians (Episode 9)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians: Final Episode",
+        "name": "Old Guardians (Final Episode)",
         "category": [
-            "(Campaign) Old Guardians"
+            "(Campaign) Old Guardians",
+            "Old Guardian Pack DLC"
         ],
         "requires": "|Old Guardians|"
     },
     {
         "name": "Old Guardians (All Episodes)",
-        "category": [
-            "(Campaign Completion) Old Guardians"
-        ],
-        "requires": "|Old Guardians|",
         "place_item": [
             "Old Guardians (All Episodes)"
-        ]
+        ],
+        "category": [
+            "(Campaign Completion) Old Guardians",
+            "Old Guardian Pack DLC"
+        ],
+        "requires": "|Old Guardians|"
     },
     {
-        "name": "Wanderers: Episode 1",
+        "name": "Wanderers (Episode 1)",
         "category": [
-            "(Campaign) Wanderers"
+            "(Campaign) Wanderers",
+            "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
     },
     {
-        "name": "Wanderers: Episode 2",
+        "name": "Wanderers (Episode 2)",
         "category": [
-            "(Campaign) Wanderers"
+            "(Campaign) Wanderers",
+            "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
     },
     {
-        "name": "Wanderers: Episode 3",
+        "name": "Wanderers (Episode 3)",
         "category": [
-            "(Campaign) Wanderers"
+            "(Campaign) Wanderers",
+            "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
     },
     {
-        "name": "Wanderers: Episode 4",
+        "name": "Wanderers (Episode 4)",
         "category": [
-            "(Campaign) Wanderers"
+            "(Campaign) Wanderers",
+            "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
     },
     {
-        "name": "Wanderers: Final Episode",
+        "name": "Wanderers (Final Episode)",
         "category": [
-            "(Campaign) Wanderers"
+            "(Campaign) Wanderers",
+            "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
     },
     {
         "name": "Wanderers (All Episodes)",
-        "category": [
-            "(Campaign Completion) Wanderers"
-        ],
-        "requires": "|Wanderers|",
         "place_item": [
             "Wanderers (All Episodes)"
-        ]
+        ],
+        "category": [
+            "(Campaign Completion) Wanderers",
+            "Wanderer Pack DLC"
+        ],
+        "requires": "|Wanderers|"
     },
     {
-        "name": "Waruda Prison Break: Episode 1",
+        "name": "Waruda Prison Break (Episode 1)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break: Episode 2",
+        "name": "Waruda Prison Break (Episode 2)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break: Episode 3",
+        "name": "Waruda Prison Break (Episode 3)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break: Episode 4",
+        "name": "Waruda Prison Break (Episode 4)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break: Episode 5",
+        "name": "Waruda Prison Break (Episode 5)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break: Final Episode",
+        "name": "Waruda Prison Break (Final Episode)",
         "category": [
-            "(Campaign) Waruda Prison Break"
+            "(Campaign) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
         ],
         "requires": "|Waruda Prison Break|"
     },
     {
         "name": "Waruda Prison Break (All Episodes)",
-        "category": [
-            "(Campaign Completion) Waruda Prison Break"
-        ],
-        "requires": "|Waruda Prison Break|",
         "place_item": [
             "Waruda Prison Break (All Episodes)"
-        ]
+        ],
+        "category": [
+            "(Campaign Completion) Waruda Prison Break",
+            "Waruda Prison Break Pack DLC"
+        ],
+        "requires": "|Waruda Prison Break|"
     },
     {
         "name": "Midnight = Kemonomimi",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Midnight = Kemonomimi|"
+        "requires": "|Midnight = Kemonomimi (Extra)|"
     },
     {
-        "name": "Midnight = Kemonomimi (All Episodes)",
+        "name": "Midnight = Kemonomimi (Completion)",
+        "place_item": [
+            "Midnight = Kemonomimi (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Midnight = Kemonomimi|",
-        "place_item": [
-            "Midnight = Kemonomimi (Complete)"
-        ]
+        "requires": "|Midnight = Kemonomimi (Extra)|"
     },
     {
         "name": "Struggle of the Cyborg",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Struggle of the Cyborg|"
+        "requires": "|Struggle of the Cyborg (Extra)|"
     },
     {
-        "name": "Struggle of the Cyborg (All Episodes)",
+        "name": "Struggle of the Cyborg (Completion)",
+        "place_item": [
+            "Struggle of the Cyborg (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Struggle of the Cyborg|",
-        "place_item": [
-            "Struggle of the Cyborg (Complete)"
-        ]
+        "requires": "|Struggle of the Cyborg (Extra)|"
     },
     {
         "name": "Twilight of the Pilots",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Twilight of the Pilots|"
+        "requires": "|Twilight of the Pilots (Extra)|"
     },
     {
-        "name": "Twilight of the Pilots (All Episodes)",
+        "name": "Twilight of the Pilots (Completion)",
+        "place_item": [
+            "Twilight of the Pilots (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Twilight of the Pilots|",
-        "place_item": [
-            "Twilight of the Pilots (Complete)"
-        ]
+        "requires": "|Twilight of the Pilots (Extra)|"
     },
     {
         "name": "Mysterious Space Odyssey",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Mysterious Space Odyssey|"
+        "requires": "|Mysterious Space Odyssey (Extra)|"
     },
     {
-        "name": "Mysterious Space Odyssey (All Episodes)",
+        "name": "Mysterious Space Odyssey (Completion)",
+        "place_item": [
+            "Mysterious Space Odyssey (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Mysterious Space Odyssey|",
-        "place_item": [
-            "Mysterious Space Odyssey (Complete)"
-        ]
+        "requires": "|Mysterious Space Odyssey (Extra)|"
     },
     {
         "name": "Tomomo Hell",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Tomomo Hell|"
+        "requires": "|Tomomo Hell (Extra)|"
     },
     {
-        "name": "Tomomo Hell (All Episodes)",
+        "name": "Tomomo Hell (Completion)",
+        "place_item": [
+            "Tomomo Hell (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Tomomo Hell|",
-        "place_item": [
-            "Tomomo Hell (Complete)"
-        ]
+        "requires": "|Tomomo Hell (Extra)|"
     },
     {
         "name": "Mio's Dark Citadel",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Mio's Dark Citadel|"
+        "requires": "|Mio's Dark Citadel (Extra)|"
     },
     {
-        "name": "Mio's Dark Citadel (All Episodes)",
+        "name": "Mio's Dark Citadel (Completion)",
+        "place_item": [
+            "Mio's Dark Citadel (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Mio's Dark Citadel|",
-        "place_item": [
-            "Mio's Dark Citadel (Complete)"
-        ]
+        "requires": "|Mio's Dark Citadel (Extra)|"
     },
     {
         "name": "Secret Santa",
         "category": [
             "(Extras)"
         ],
-        "requires": "|Secret Santa|"
+        "requires": "|Secret Santa (Extra)|"
     },
     {
-        "name": "Secret Santa (All Episodes)",
+        "name": "Secret Santa (Completion)",
+        "place_item": [
+            "Secret Santa (Complete)"
+        ],
         "category": [
             "(Extras Completion)"
         ],
-        "requires": "|Secret Santa|",
-        "place_item": [
-            "Secret Santa (Complete)"
-        ]
+        "requires": "|Secret Santa (Extra)|"
     },
     {
         "name": "Chaos of the Sweet Gods",
         "category": [
-            "(Extras)"
+            "(Extras)",
+            "Breaker Pack DLC"
         ],
-        "requires": "|Chaos of the Sweet Gods|"
+        "requires": "|Chaos of the Sweet Gods (Extra)|"
     },
     {
-        "name": "Chaos of the Sweet Gods (All Episodes)",
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Chaos of the Sweet Gods|",
+        "name": "Chaos of the Sweet Gods (Completion)",
         "place_item": [
             "Chaos of the Sweet Gods (Complete)"
-        ]
+        ],
+        "category": [
+            "(Extras Completion)",
+            "Breaker Pack DLC"
+        ],
+        "requires": "|Chaos of the Sweet Gods (Extra)|"
     },
     {
         "name": "Game Night of the Witches",
         "category": [
-            "(Extras)"
+            "(Extras)",
+            "Alicianrone & Teotoratta Character Pack DLC"
         ],
-        "requires": "|Game Night of the Witches|"
+        "requires": "|Game Night of the Witches (Extra)|"
     },
     {
-        "name": "Game Night of the Witches (All Episodes)",
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Game Night of the Witches|",
+        "name": "Game Night of the Witches (Completion)",
         "place_item": [
             "Game Night of the Witches (Complete)"
-        ]
+        ],
+        "category": [
+            "(Extras Completion)",
+            "Alicianrone & Teotoratta Character Pack DLC"
+        ],
+        "requires": "|Game Night of the Witches (Extra)|"
     },
     {
         "name": "QP: Win a game after bringing 10 unique cards",
@@ -1033,10 +1093,10 @@
     },
     {
         "name": "69,420,000,000 Oranges",
+        "victory": true,
         "category": [
             "((Victory))"
         ],
-        "requires": "|@Completed Campaigns:80%|",
-        "victory": true
+        "requires": "|@Completed Campaigns:80%|"
     }
 ]
