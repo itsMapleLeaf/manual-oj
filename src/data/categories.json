@@ -1,4 +1,14 @@
 {
+    "Characters": {
+        "yaml_option": [
+            "include_characters"
+        ]
+    },
+    "Cards": {
+        "yaml_option": [
+            "include_cards"
+        ]
+    },
     "Breaker Pack DLC": {
         "hidden": true,
         "yaml_option": [
@@ -39,6 +49,54 @@
         "hidden": true,
         "yaml_option": [
             "enable_alicianrone_teotoratta_character_pack_dlc"
+        ]
+    },
+    "Expansion Pack DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_expansion_pack_dlc"
+        ]
+    },
+    "Mixed Booster Pack DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_mixed_booster_pack_dlc"
+        ]
+    },
+    "Acceleration Pack DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_acceleration_pack_dlc"
+        ]
+    },
+    "Community Pack 1 DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_community_pack_1_dlc"
+        ]
+    },
+    "Community Pack 2 DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_community_pack_2_dlc"
+        ]
+    },
+    "Pudding Pack DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_pudding_pack_dlc"
+        ]
+    },
+    "Community Pack 3 DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_community_pack_3_dlc"
+        ]
+    },
+    "Community Pack 4 DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_community_pack_4_dlc"
         ]
     }
 }

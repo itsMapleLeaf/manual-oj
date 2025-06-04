@@ -23,22 +23,26 @@ class CardData:
 @dataclass
 class CharacterData:
     goal: Optional[str] = None
+    dlc: Optional[str] = None
 
 
 @dataclass
 class ContentData(DataClassJsonMixin):
     campaigns: dict[str, CampaignData]
     characters: dict[str, CharacterData]
-    cards: dict[str, CardData]
+    card_packs: dict[str, dict[str, CardData]]
     victory_campaign: str
 
 
 class OrangeJuiceWorldBuilder(WorldBuilder):
     dlc_categories: dict[str, Category] = {}
 
-    def resolve_dlc_category(self, name: str):
+    def resolve_dlc_category(self, name: str | None) -> list[Category]:
+        if not name:
+            return []
+
         if name in self.dlc_categories:
-            return self.dlc_categories[name]
+            return [self.dlc_categories[name]]
 
         dlc_category = self.category(
             f"{name} DLC",
@@ -52,22 +56,33 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
 
         self.dlc_categories[name] = dlc_category
 
-        return dlc_category
+        return [dlc_category]
 
     def build(self):
         content = ContentData.from_json(
             Path("src/data/content.json").read_text(encoding="utf-8")
         )
 
+        characters_category = self.category(
+            "Characters",
+            yaml_option=self.toggle_option(
+                "include_characters",
+                description="Add characters to the pool, requiring unlocking them to use them. Disable this to allow using all characters throughout the game.",
+                default=True,
+            ),
+        )
+
+        cards_category = self.category(
+            "Cards",
+            yaml_option=self.toggle_option(
+                "include_cards",
+                description="Add cards to the pool, requiring unlocking them to use them. Disable this to allow using all cards throughout the game.",
+                default=True,
+            ),
+        )
+
         for campaign_name, campaign_info in content.campaigns.items():
             campaign_location_category = f"(Campaign) {campaign_name}"
-
-            # making this a list allows cleanly appending it conditionally
-            dlc_categories = (
-                [self.resolve_dlc_category(campaign_info.dlc)]
-                if campaign_info.dlc
-                else []
-            )
 
             campaign_unlock_item = self.item(
                 (
@@ -76,7 +91,7 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
                     else campaign_name
                 ),
                 progression=True,
-                category=["Campaigns", *dlc_categories],
+                category=["Campaigns", *self.resolve_dlc_category(campaign_info.dlc)],
             )
 
             if campaign_info.episodes:
@@ -85,66 +100,82 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
                     self.location(
                         f"{campaign_name} (Episode {episode_index + 1})",
                         requires=campaign_unlock_item,
-                        category=[campaign_location_category, *dlc_categories],
+                        category=[
+                            campaign_location_category,
+                            *self.resolve_dlc_category(campaign_info.dlc),
+                        ],
                     )
 
                 self.location(
                     f"{campaign_name} (Final Episode)",
                     requires=campaign_unlock_item,
-                    category=[campaign_location_category, *dlc_categories],
+                    category=[
+                        campaign_location_category,
+                        *self.resolve_dlc_category(campaign_info.dlc),
+                    ],
                 )
             else:
-
                 self.location(
                     campaign_name,
                     requires=campaign_unlock_item,
-                    category=[campaign_location_category, *dlc_categories],
+                    category=[
+                        campaign_location_category,
+                        *self.resolve_dlc_category(campaign_info.dlc),
+                    ],
                 )
 
-        characters_category = self.category(
-            "Characters",
-            yaml_option=self.toggle_option(
-                "randomize_characters",
-                description="Add characters to the pool, requiring unlocking them to use them. Disable this to allow using all characters throughout the game.",
-                default=True,
-            ),
-        )
-
         for character_name, character_info in content.characters.items():
-            character_item = self.item(
-                character_name,
-                useful=True,
-                category=characters_category,
-            )
+            if not character_info.goal:
+                character_item = self.item(
+                    character_name,
+                    useful=True,
+                    category=[
+                        characters_category,
+                        *self.resolve_dlc_category(character_info.dlc),
+                    ],
+                )
+            else:
+                character_item = self.item(
+                    character_name,
+                    progression=True,
+                    category=[
+                        characters_category,
+                        *self.resolve_dlc_category(character_info.dlc),
+                    ],
+                )
 
-            if character_info.goal:
+                character_goal_requires = f"|{character_item.name}|"
+
+                # grosest shit i've ever written
+                character_dlc_category = self.resolve_dlc_category(character_info.dlc)
+                if len(character_dlc_category) > 0:
+                    character_goal_requires = f"|@{character_dlc_category[0].name}| and {character_goal_requires}"
+
                 self.location(
                     f"{character_name}: {character_info.goal}",
                     category=["(Goals)"],
-                    requires=f"{{OptOne({character_item.name})}}",
+                    requires=f"{{OptAll({character_goal_requires})}}",
                 )
 
-        cards_category = self.category(
-            "Characters",
-            yaml_option=self.toggle_option(
-                "randomize_cards",
-                description="Add cards to the pool, requiring unlocking them to use them. Disable this to allow using all cards throughout the game.",
-                default=True,
-            ),
-        )
-
-        for card_name, card_info in content.cards.items():
-            self.item(
-                card_name,
-                count=card_info.count,
-                useful=True,
-                category=cards_category,
-            )
+        for card_pack_name, card_pack_dict in content.card_packs.items():
+            for card_name, card_info in card_pack_dict.items():
+                card_pack_dlc_category = (
+                    self.resolve_dlc_category(card_pack_name)
+                    if card_pack_name != "Base Pack"
+                    else []
+                )
+                self.item(
+                    card_name,
+                    count=card_info.count,
+                    useful=True,
+                    category=[cards_category, *card_pack_dlc_category],
+                )
 
         orange = self.item(
             "Orange",
             progression=True,
-            count=50,
+            filler=True,
+            count=30,
             category=["Oranges"],
         )
 
@@ -159,7 +190,7 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
 
 
 def to_snake_case(text: str):
-    words = re.findall(r"[A-Z]?[a-z]+", text)
+    words = re.findall(r"[A-Z0-9]?[a-z0-9]+", text)
     return "_".join(words).lower()
 
 

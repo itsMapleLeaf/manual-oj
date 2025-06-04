@@ -1,6 +1,16 @@
 {
     "core": {},
     "user": {
+        "include_characters": {
+            "type": "Toggle",
+            "description": "Add characters to the pool, requiring unlocking them to use them. Disable this to allow using all characters throughout the game.",
+            "default": true
+        },
+        "include_cards": {
+            "type": "Toggle",
+            "description": "Add cards to the pool, requiring unlocking them to use them. Disable this to allow using all cards throughout the game.",
+            "default": true
+        },
         "enable_breaker_pack_dlc": {
             "type": "Toggle",
             "description": "Enables the Breaker Pack DLC.",
@@ -34,6 +44,46 @@
         "enable_alicianrone_teotoratta_character_pack_dlc": {
             "type": "Toggle",
             "description": "Enables the Alicianrone & Teotoratta Character Pack DLC.",
+            "default": true
+        },
+        "enable_expansion_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Expansion Pack DLC.",
+            "default": true
+        },
+        "enable_mixed_booster_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Mixed Booster Pack DLC.",
+            "default": true
+        },
+        "enable_acceleration_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Acceleration Pack DLC.",
+            "default": true
+        },
+        "enable_community_pack_1_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Community Pack 1 DLC.",
+            "default": true
+        },
+        "enable_community_pack_2_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Community Pack 2 DLC.",
+            "default": true
+        },
+        "enable_pudding_pack_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Pudding Pack DLC.",
+            "default": true
+        },
+        "enable_community_pack_3_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Community Pack 3 DLC.",
+            "default": true
+        },
+        "enable_community_pack_4_dlc": {
+            "type": "Toggle",
+            "description": "Enables the Community Pack 4 DLC.",
             "default": true
         }
     }

@@ -143,140 +143,140 @@
     },
     {
         "name": "QP",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Yuki",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Aru",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Suguri",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Hime",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Sora",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Marc",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Fernet",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Peat",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kai",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Marie Poppo",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Tomomo",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Chicken",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Robo Ball",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Seagull",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Store Manager",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Shifu Robot",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Flying Castle",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Syura",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Nanako",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -290,42 +290,42 @@
     },
     {
         "name": "Saki",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kyousuke",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Krilalaris",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kae",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Alte",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kyoko",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -339,14 +339,14 @@
     },
     {
         "name": "Sham",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Sherry",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -360,16 +360,18 @@
     },
     {
         "name": "Star Breaker",
-        "useful": true,
+        "progression": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Breaker Pack DLC"
         ]
     },
     {
         "name": "Sweet Breaker",
-        "useful": true,
+        "progression": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Breaker Pack DLC"
         ]
     },
     {
@@ -381,70 +383,65 @@
     },
     {
         "name": "Nath",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Mimyuu",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Tomato",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kiriko",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "NoName",
-        "useful": true,
-        "category": [
-            "Characters"
-        ]
-    },
-    {
-        "name": "NoName (Head)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Ceoreparque",
-        "useful": true,
+        "progression": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Witch Pack DLC"
         ]
     },
     {
         "name": "Miusaki",
-        "useful": true,
+        "progression": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Witch Pack DLC"
         ]
     },
     {
         "name": "Yuki (Dangerous)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Tomomo (Casual)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -458,14 +455,14 @@
     },
     {
         "name": "Tsih",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Tequila",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -488,14 +485,16 @@
         "name": "Nico",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Toy Store Pack DLC"
         ]
     },
     {
         "name": "Arthur",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Toy Store Pack DLC"
         ]
     },
     {
@@ -535,7 +534,7 @@
     },
     {
         "name": "Mio",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -544,28 +543,32 @@
         "name": "Suguri (46 Billion Years)",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Old Guardian Pack DLC"
         ]
     },
     {
         "name": "Sumika",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Old Guardian Pack DLC"
         ]
     },
     {
         "name": "Ellie",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Wanderer Pack DLC"
         ]
     },
     {
         "name": "Lulu",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Wanderer Pack DLC"
         ]
     },
     {
@@ -724,7 +727,7 @@
     },
     {
         "name": "Mio (Festive)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -733,14 +736,16 @@
         "name": "Krilalaris (Pajamas)",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Waruda Prison Break Pack DLC"
         ]
     },
     {
         "name": "Mimyuu (Jailbird)",
         "useful": true,
         "category": [
-            "Characters"
+            "Characters",
+            "Waruda Prison Break Pack DLC"
         ]
     },
     {
@@ -772,27 +777,45 @@
         ]
     },
     {
-        "name": "Ambush",
-        "count": 2,
+        "name": "Bourbon",
         "useful": true,
         "category": [
-            "Cards"
+            "Characters"
         ]
     },
     {
-        "name": "Backdoor Trade",
-        "count": 2,
+        "name": "Grain",
         "useful": true,
         "category": [
-            "Cards"
+            "Characters"
         ]
     },
     {
-        "name": "Completion Reward",
-        "count": 2,
+        "name": "Poyo",
         "useful": true,
         "category": [
-            "Cards"
+            "Characters"
+        ]
+    },
+    {
+        "name": "Chuu",
+        "useful": true,
+        "category": [
+            "Characters"
+        ]
+    },
+    {
+        "name": "Haruka",
+        "useful": true,
+        "category": [
+            "Characters"
+        ]
+    },
+    {
+        "name": "Kanata",
+        "useful": true,
+        "category": [
+            "Characters"
         ]
     },
     {
@@ -804,7 +827,7 @@
         ]
     },
     {
-        "name": "Extend",
+        "name": "Saki's Cookie",
         "count": 2,
         "useful": true,
         "category": [
@@ -813,46 +836,6 @@
     },
     {
         "name": "Flip Out",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Gentleman's Battle",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Lonely Chariot",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Long-Distance Shot",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Mimic",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "My Wild Friends",
         "count": 2,
         "useful": true,
         "category": [
@@ -876,143 +859,7 @@
         ]
     },
     {
-        "name": "Overtime",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Passionate Research",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Path Blockers",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "President's Privilege",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Princess's Privilege",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
         "name": "Pudding",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Saki's Cookie",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Stiff Crystal",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Treasure Thief",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Warp Control",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Accel Hyper",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Big Magnum",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Contest of Cuteness",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Dark Side of Business",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Deceptive Disarming",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Desperate Modification",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Extension",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Final Battle",
         "count": 2,
         "useful": true,
         "category": [
@@ -1028,15 +875,7 @@
         ]
     },
     {
-        "name": "Portable Pudding",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Quick Restoration",
+        "name": "Rbits",
         "count": 2,
         "useful": true,
         "category": [
@@ -1052,63 +891,7 @@
         ]
     },
     {
-        "name": "Rbits",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Reverse Attribute Field",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Serious Battle",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Shield",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Shield Counter",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Sink or Swim",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Tactical Retreat",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Assault",
+        "name": "Final Battle",
         "count": 2,
         "useful": true,
         "category": [
@@ -1124,23 +907,7 @@
         ]
     },
     {
-        "name": "BanaNana",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Bank of Poppo",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Brutal Prank",
+        "name": "Mimyuu's Hammer",
         "count": 2,
         "useful": true,
         "category": [
@@ -1156,111 +923,7 @@
         ]
     },
     {
-        "name": "Encore",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Exchange",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Flamethrower",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "For the Future of the Toy Store",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Go Away",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Heat 300%",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Invasion",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "I Wanna See You",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Mimyuu's Hammer",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Piggy Bank",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Piyopiyo Procession",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Poppoformation",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Present Thief",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Sealed Memories",
+        "name": "Assault",
         "count": 2,
         "useful": true,
         "category": [
@@ -1269,62 +932,6 @@
     },
     {
         "name": "Sky Restaurant 'Pures'",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Tragedy in the Dead of Night",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Wanted",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Accelerating Sky",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Cloud of Seagulls",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Dinner",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Forced Revival",
-        "count": 2,
-        "useful": true,
-        "category": [
-            "Cards"
-        ]
-    },
-    {
-        "name": "Gift Exchange",
         "count": 2,
         "useful": true,
         "category": [
@@ -1348,7 +955,7 @@
         ]
     },
     {
-        "name": "Home Improvement",
+        "name": "Out of Ammo",
         "count": 2,
         "useful": true,
         "category": [
@@ -1356,7 +963,7 @@
         ]
     },
     {
-        "name": "Indiscriminate Fire Support",
+        "name": "Gift Exchange",
         "count": 2,
         "useful": true,
         "category": [
@@ -1372,123 +979,147 @@
         ]
     },
     {
-        "name": "Mix Phenomenon",
+        "name": "Long-Distance Shot",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Oh My Friend",
+        "name": "Stiff Crystal",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Out of Ammo",
+        "name": "Extend",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Party Time",
+        "name": "Princess's Privilege",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Pet Snacks",
+        "name": "Big Magnum",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Play of the Gods",
+        "name": "Shield",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Rebellion",
+        "name": "Reverse Attribute Field",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Scary Solicitation",
+        "name": "Piggy Bank",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Scrambled Eve",
+        "name": "Invasion",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Sealed Guardian",
+        "name": "Go Away",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Serene Hush",
+        "name": "Heat 300%",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Star-Blasting Light",
+        "name": "Tragedy in the Dead of Night",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Super All-Out Mode",
+        "name": "Exchange",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Sweet Destroyer",
+        "name": "Flamethrower",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Unpaid Work",
+        "name": "For the Future of the Toy Store",
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
+        ]
+    },
+    {
+        "name": "Cloud of Seagulls",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
@@ -1496,71 +1127,242 @@
         "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Bloodlust",
-        "count": 1,
+        "name": "Dinner",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Lost Child",
-        "count": 1,
+        "name": "Super All-Out Mode",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Lucky Charm",
-        "count": 1,
+        "name": "Forced Revival",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Lucky Sevens",
-        "count": 1,
+        "name": "Oh My Friend",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Metallic Monocoque",
-        "count": 1,
+        "name": "Sealed Guardian",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Expansion Pack DLC"
         ]
     },
     {
-        "name": "Nanako's Bit",
-        "count": 1,
+        "name": "Lonely Chariot",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Mixed Booster Pack DLC"
         ]
     },
     {
-        "name": "Poppo the Snatcher",
-        "count": 1,
+        "name": "Ambush",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Mixed Booster Pack DLC"
         ]
     },
     {
-        "name": "Price of Power",
-        "count": 1,
+        "name": "Passionate Research",
+        "count": 2,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "President's Privilege",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Mimic",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Tactical Retreat",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Shield Counter",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Piyopiyo Procession",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Sealed Memories",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Mix Phenomenon",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Scary Solicitation",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Mixed Booster Pack DLC"
+        ]
+    },
+    {
+        "name": "Completion Reward",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Gentleman's Battle",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Accel Hyper",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Extension",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Quick Restoration",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Brutal Prank",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Present Thief",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Play of the Gods",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Scrambled Eve",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Star-Blasting Light",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Acceleration Pack DLC"
         ]
     },
     {
@@ -1568,7 +1370,8 @@
         "count": 1,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Acceleration Pack DLC"
         ]
     },
     {
@@ -1576,12 +1379,338 @@
         "count": 1,
         "useful": true,
         "category": [
-            "Cards"
+            "Cards",
+            "Acceleration Pack DLC"
+        ]
+    },
+    {
+        "name": "Treasure Thief",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Dark Side of Business",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Wanted",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Party Time",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Lost Child",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Price of Power",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 1 DLC"
+        ]
+    },
+    {
+        "name": "Path Blockers",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Desperate Modification",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Poppoformation",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Accelerating Sky",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Poppo the Snatcher",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Bloodlust",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 2 DLC"
+        ]
+    },
+    {
+        "name": "Backdoor Trade",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Sink or Swim",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Serious Battle",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Portable Pudding",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "I Wanna See You",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Encore",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Sweet Destroyer",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Serene Hush",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Unpaid Work",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Indiscriminate Fire Support",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Lucky Charm",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Metallic Monocoque",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Pudding Pack DLC"
+        ]
+    },
+    {
+        "name": "Overtime",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "Deceptive Disarming",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "BanaNana",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "Pet Snacks",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "Home Improvement",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "Lucky Sevens",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 3 DLC"
+        ]
+    },
+    {
+        "name": "Warp Control",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
+        ]
+    },
+    {
+        "name": "My Wild Friends",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
+        ]
+    },
+    {
+        "name": "Contest of Cuteness",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
+        ]
+    },
+    {
+        "name": "Bank of Poppo",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
+        ]
+    },
+    {
+        "name": "Rebellion",
+        "count": 2,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
+        ]
+    },
+    {
+        "name": "Nanako's Bit",
+        "count": 1,
+        "useful": true,
+        "category": [
+            "Cards",
+            "Community Pack 4 DLC"
         ]
     },
     {
         "name": "Orange",
-        "useful": true,
+        "progression": true,
+        "filler": true,
         "count": 30,
         "category": [
             "Oranges"

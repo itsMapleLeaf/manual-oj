@@ -622,301 +622,301 @@
         "category": [
             "(Goals)"
         ],
-        "requires": "|QP|"
+        "requires": "{OptAll(|QP|)}"
     },
     {
         "name": "Yuki: Win a game with Wins",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Yuki|"
+        "requires": "{OptAll(|Yuki|)}"
     },
     {
         "name": "Aru: Cause Other Players to draw 4+ Cards in one Turn",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Aru|"
+        "requires": "{OptAll(|Aru|)}"
     },
     {
         "name": "Suguri: Roll a movement of 12 or higher.",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Suguri|"
+        "requires": "{OptAll(|Suguri|)}"
     },
     {
         "name": "Hime: KO 2 players in a single turn",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Hime|"
+        "requires": "{OptAll(|Hime|)}"
     },
     {
         "name": "Sora: KO a Player from 6+ Spaces Away",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Sora|"
+        "requires": "{OptAll(|Sora|)}"
     },
     {
         "name": "Marc: KO a Full HP player with x16 Big Rocket",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Marc|"
+        "requires": "{OptAll(|Marc|)}"
     },
     {
         "name": "Fernet: Complete a Wins Norma of 4 or higher",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Fernet|"
+        "requires": "{OptAll(|Fernet|)}"
     },
     {
         "name": "Peat: Successfully Evade after using your Hyper",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Peat|"
+        "requires": "{OptAll(|Peat|)}"
     },
     {
         "name": "Kai: Complete a Story Mission",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Kai|"
+        "requires": "{OptAll(|Kai|)}"
     },
     {
         "name": "Marie Poppo: KO a player with \"Reverse Attribute Field\"",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Marie Poppo|"
+        "requires": "{OptAll(|Marie Poppo|)}"
     },
     {
         "name": "Tomomo: At any point, be the only standing player.",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Tomomo|"
+        "requires": "{OptAll(|Tomomo|)}"
     },
     {
         "name": "Chicken: Land on your own Hyper",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Chicken|"
+        "requires": "{OptAll(|Chicken|)}"
     },
     {
         "name": "Robo Ball: Obtain 5+ wins in a single game",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Robo Ball|"
+        "requires": "{OptAll(|Robo Ball|)}"
     },
     {
         "name": "Seagull: Play your Hyper and a Battle Card together",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Seagull|"
+        "requires": "{OptAll(|Seagull|)}"
     },
     {
         "name": "Store Manager: KO the field boss",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Store Manager|"
+        "requires": "{OptAll(|Store Manager|)}"
     },
     {
         "name": "Shifu Robot: KO the field boss",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Shifu Robot|"
+        "requires": "{OptAll(|Shifu Robot|)}"
     },
     {
         "name": "Flying Castle: KO the field boss",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Flying Castle|"
+        "requires": "{OptAll(|Flying Castle|)}"
     },
     {
         "name": "Syura: KO a player while at 1 HP",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Syura|"
+        "requires": "{OptAll(|Syura|)}"
     },
     {
         "name": "Nanako: Gain Atleast 3 ATK from your Hyper",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Nanako|"
+        "requires": "{OptAll(|Nanako|)}"
     },
     {
         "name": "Saki: KO a player who lands on your Hyper",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Saki|"
+        "requires": "{OptAll(|Saki|)}"
     },
     {
         "name": "Kyousuke: Use 2 Hypers in 1 Game",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Kyousuke|"
+        "requires": "{OptAll(|Kyousuke|)}"
     },
     {
         "name": "Krilalaris: Increase your Max HP to 8",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Krilalaris|"
+        "requires": "{OptAll(|Krilalaris|)}"
     },
     {
         "name": "Kae: Roll a 9+ Attack (After Modifiers)",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Kae|"
+        "requires": "{OptAll(|Kae|)}"
     },
     {
         "name": "Alte: Self-destruct a boss",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Alte|"
+        "requires": "{OptAll(|Alte|)}"
     },
     {
         "name": "Kyoko: Survive a match without being KO'd by another player",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Kyoko|"
+        "requires": "{OptAll(|Kyoko|)}"
     },
     {
         "name": "Sham: Force a player to fight the boss",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Sham|"
+        "requires": "{OptAll(|Sham|)}"
     },
     {
         "name": "Sherry: KO another player or the field boss with Shield Counter",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Sherry|"
+        "requires": "{OptAll(|Sherry|)}"
     },
     {
         "name": "Star Breaker: Hold 200 or more Stars",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Star Breaker|"
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
     },
     {
         "name": "Sweet Breaker: Use Melting Memories to flip 3 cards from a single player",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Sweet Breaker|"
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
     },
     {
         "name": "Nath: Reach 3 stacks of Active Extension",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Nath|"
+        "requires": "{OptAll(|Nath|)}"
     },
     {
         "name": "Mimyuu: Have any player draw Evil Spy Work - Execution off of Passionate Research",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Mimyuu|"
+        "requires": "{OptAll(|Mimyuu|)}"
     },
     {
         "name": "Tomato: KO a player within one chapter of them KOing Mimyuu",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Tomato|"
+        "requires": "{OptAll(|Tomato|)}"
     },
     {
         "name": "Kiriko: Lower your Max HP to 2",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Kiriko|"
+        "requires": "{OptAll(|Kiriko|)}"
     },
     {
         "name": "NoName: KO a player in Head Form",
         "category": [
             "(Goals)"
         ],
-        "requires": "|NoName|"
+        "requires": "{OptAll(|NoName|)}"
     },
     {
         "name": "Ceoreparque: Complete a Norma two consecutive chapters in a row",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Ceoreparque|"
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
     },
     {
         "name": "Miusaki: Win a battle where Final Battle is played",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Miusaki|"
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
     },
     {
         "name": "Yuki (Dangerous): Complete a Wins Norma of 4 or higher",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Yuki (Dangerous)|"
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
     },
     {
         "name": "Tomomo (Casual): Hold 3+ Hypers at Once",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Tomomo (Casual)|"
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
     },
     {
         "name": "Tsih: Hold 3 Gifts",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Tsih|"
+        "requires": "{OptAll(|Tsih|)}"
     },
     {
         "name": "Tequila: KO another player while you have 1 HP",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Tequila|"
+        "requires": "{OptAll(|Tequila|)}"
     },
     {
         "name": "Mio: 50 or more stars from Magical Inferno",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Mio|"
+        "requires": "{OptAll(|Mio|)}"
     },
     {
         "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
         "category": [
             "(Goals)"
         ],
-        "requires": "|Mio (Festive)|"
+        "requires": "{OptAll(|Mio (Festive)|)}"
     },
     {
         "name": "Tomomo Hell (Victory)",
@@ -924,6 +924,6 @@
         "category": [
             "((Victory))"
         ],
-        "requires": "|Orange:20|"
+        "requires": "|Orange:70%|"
     }
 ]

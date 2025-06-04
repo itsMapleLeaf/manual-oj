@@ -25,16 +25,22 @@ class WorldBuilder:
     options: dict[str, ToggleOption] = {}
 
     def item(self, name: str, **kwargs: Unpack[ItemArgs]):
-        return self.__set_unique(self.items, name, Item(name=name, **kwargs))
+        return self.__set_unique("Items", self.items, name, Item(name=name, **kwargs))
 
     def location(self, name: str, **kwargs: Unpack[LocationArgs]):
-        return self.__set_unique(self.locations, name, Location(name=name, **kwargs))
+        return self.__set_unique(
+            "Locations", self.locations, name, Location(name=name, **kwargs)
+        )
 
     def category(self, name: str, **kwargs: Unpack[CategoryArgs]):
-        return self.__set_unique(self.categories, name, Category(name, **kwargs))
+        return self.__set_unique(
+            "Categories", self.categories, name, Category(name, **kwargs)
+        )
 
     def toggle_option(self, name: str, **kwargs: Unpack[ToggleOptionArgs]):
-        return self.__set_unique(self.options, name, ToggleOption(name, **kwargs))
+        return self.__set_unique(
+            "Options", self.options, name, ToggleOption(name, **kwargs)
+        )
 
     def generate_data(self):
         computed_item_count = sum(
@@ -79,9 +85,9 @@ class WorldBuilder:
         return BuilderOutput()
 
     @staticmethod
-    def __set_unique[K, V](dict: dict[K, V], key: K, value: V) -> V:
+    def __set_unique[K, V](dict_name: str, dict: dict[K, V], key: K, value: V) -> V:
         if key in dict:
-            raise Exception(f'key "{key}" already exists in "{dict.__qualname__}"')
+            raise Exception(f'key "{key}" already exists in "{dict_name}"')
         dict[key] = value
         return value
 

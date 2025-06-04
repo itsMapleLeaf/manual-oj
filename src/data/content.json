@@ -143,10 +143,12 @@
         },
         "Sora (Military)": {},
         "Star Breaker": {
-            "goal": "Hold 200 or more Stars"
+            "goal": "Hold 200 or more Stars",
+            "dlc": "Breaker Pack"
         },
         "Sweet Breaker": {
-            "goal": "Use Melting Memories to flip 3 cards from a single player"
+            "goal": "Use Melting Memories to flip 3 cards from a single player",
+            "dlc": "Breaker Pack"
         },
         "Aru (Scramble)": {},
         "Nath": {
@@ -165,10 +167,12 @@
             "goal": "KO a player in Head Form"
         },
         "Ceoreparque": {
-            "goal": "Complete a Norma two consecutive chapters in a row"
+            "goal": "Complete a Norma two consecutive chapters in a row",
+            "dlc": "Witch Pack"
         },
         "Miusaki": {
-            "goal": "Win a battle where Final Battle is played"
+            "goal": "Win a battle where Final Battle is played",
+            "dlc": "Witch Pack"
         },
         "Yuki (Dangerous)": {
             "goal": "Complete a Wins Norma of 4 or higher"
@@ -185,8 +189,12 @@
         },
         "Mei": {},
         "Natsumi": {},
-        "Nico": {},
-        "Arthur": {},
+        "Nico": {
+            "dlc": "Toy Store Pack"
+        },
+        "Arthur": {
+            "dlc": "Toy Store Pack"
+        },
         "Iru": {},
         "Mira": {},
         "Cuties": {},
@@ -195,10 +203,18 @@
         "Mio": {
             "goal": "50 or more stars from Magical Inferno"
         },
-        "Suguri (46 Billion Years)": {},
-        "Sumika": {},
-        "Ellie": {},
-        "Lulu": {},
+        "Suguri (46 Billion Years)": {
+            "dlc": "Old Guardian Pack"
+        },
+        "Sumika": {
+            "dlc": "Old Guardian Pack"
+        },
+        "Ellie": {
+            "dlc": "Wanderer Pack"
+        },
+        "Lulu": {
+            "dlc": "Wanderer Pack"
+        },
         "Marc (Pilot)": {},
         "Alicianrone": {},
         "Teotoratta": {},
@@ -224,114 +240,142 @@
         "Mio (Festive)": {
             "goal": "Win with Mio's Christmas Cake in your hand"
         },
-        "Krilalaris (Pajamas)": {},
-        "Mimyuu (Jailbird)": {},
+        "Krilalaris (Pajamas)": {
+            "dlc": "Waruda Prison Break Pack"
+        },
+        "Mimyuu (Jailbird)": {
+            "dlc": "Waruda Prison Break Pack"
+        },
         "Mother Poppo": {},
         "Dark Lulu": {},
         "Hyper Ellie": {},
-        "Kai (Hero)": {}
+        "Kai (Hero)": {},
+        "Bourbon": {},
+        "Grain": {},
+        "Poyo": {},
+        "Chuu": {},
+        "Haruka": {},
+        "Kanata": {}
     },
-    "cards": {
-        "Ambush": { "count": 2 },
-        "Backdoor Trade": { "count": 2 },
-        "Completion Reward": { "count": 2 },
-        "Dash!": { "count": 2 },
-        "Extend": { "count": 2 },
-        "Flip Out": { "count": 2 },
-        "Gentleman's Battle": { "count": 2 },
-        "Lonely Chariot": { "count": 2 },
-        "Long-Distance Shot": { "count": 2 },
-        "Mimic": { "count": 2 },
-        "My Wild Friends": { "count": 2 },
-        "Nice Jingle": { "count": 2 },
-        "Nice Present": { "count": 2 },
-        "Overtime": { "count": 2 },
-        "Passionate Research": { "count": 2 },
-        "Path Blockers": { "count": 2 },
-        "President's Privilege": { "count": 2 },
-        "Princess's Privilege": { "count": 2 },
-        "Pudding": { "count": 2 },
-        "Saki's Cookie": { "count": 2 },
-        "Stiff Crystal": { "count": 2 },
-        "Treasure Thief": { "count": 2 },
-        "Warp Control": { "count": 2 },
-        "Accel Hyper": { "count": 2 },
-        "Big Magnum": { "count": 2 },
-        "Contest of Cuteness": { "count": 2 },
-        "Dark Side of Business": { "count": 2 },
-        "Deceptive Disarming": { "count": 2 },
-        "Desperate Modification": { "count": 2 },
-        "Extension": { "count": 2 },
-        "Final Battle": { "count": 2 },
-        "I'm on Fire!": { "count": 2 },
-        "Portable Pudding": { "count": 2 },
-        "Quick Restoration": { "count": 2 },
-        "Rainbow-Colored Circle": { "count": 2 },
-        "Rbits": { "count": 2 },
-        "Reverse Attribute Field": { "count": 2 },
-        "Serious Battle": { "count": 2 },
-        "Shield": { "count": 2 },
-        "Shield Counter": { "count": 2 },
-        "Sink or Swim": { "count": 2 },
-        "Tactical Retreat": { "count": 2 },
-        "Assault": { "count": 2 },
-        "Bad Pudding": { "count": 2 },
-        "BanaNana": { "count": 2 },
-        "Bank of Poppo": { "count": 2 },
-        "Brutal Prank": { "count": 2 },
-        "Dangerous Pudding": { "count": 2 },
-        "Encore": { "count": 2 },
-        "Exchange": { "count": 2 },
-        "Flamethrower": { "count": 2 },
-        "For the Future of the Toy Store": { "count": 2 },
-        "Go Away": { "count": 2 },
-        "Heat 300%": { "count": 2 },
-        "Invasion": { "count": 2 },
-        "I Wanna See You": { "count": 2 },
-        "Mimyuu's Hammer": { "count": 2 },
-        "Piggy Bank": { "count": 2 },
-        "Piyopiyo Procession": { "count": 2 },
-        "Poppoformation": { "count": 2 },
-        "Present Thief": { "count": 2 },
-        "Sealed Memories": { "count": 2 },
-        "Sky Restaurant 'Pures'": { "count": 2 },
-        "Tragedy in the Dead of Night": { "count": 2 },
-        "Wanted": { "count": 2 },
-        "Accelerating Sky": { "count": 2 },
-        "Cloud of Seagulls": { "count": 2 },
-        "Dinner": { "count": 2 },
-        "Forced Revival": { "count": 2 },
-        "Gift Exchange": { "count": 2 },
-        "Here and There": { "count": 2 },
-        "Holy Night": { "count": 2 },
-        "Home Improvement": { "count": 2 },
-        "Indiscriminate Fire Support": { "count": 2 },
-        "Little War": { "count": 2 },
-        "Mix Phenomenon": { "count": 2 },
-        "Oh My Friend": { "count": 2 },
-        "Out of Ammo": { "count": 2 },
-        "Party Time": { "count": 2 },
-        "Pet Snacks": { "count": 2 },
-        "Play of the Gods": { "count": 2 },
-        "Rebellion": { "count": 2 },
-        "Scary Solicitation": { "count": 2 },
-        "Scrambled Eve": { "count": 2 },
-        "Sealed Guardian": { "count": 2 },
-        "Serene Hush": { "count": 2 },
-        "Star-Blasting Light": { "count": 2 },
-        "Super All-Out Mode": { "count": 2 },
-        "Sweet Destroyer": { "count": 2 },
-        "Unpaid Work": { "count": 2 },
-        "We Are Waruda": { "count": 2 },
-        "Bloodlust": { "count": 1 },
-        "Lost Child": { "count": 1 },
-        "Lucky Charm": { "count": 1 },
-        "Lucky Sevens": { "count": 1 },
-        "Metallic Monocoque": { "count": 1 },
-        "Nanako's Bit": { "count": 1 },
-        "Poppo the Snatcher": { "count": 1 },
-        "Price of Power": { "count": 1 },
-        "Unlucky Charm": { "count": 1 },
-        "Windy Enchantment": { "count": 1 }
+    "card_packs": {
+        "Base Pack": {
+            "Dash!": { "count": 2 },
+            "Saki's Cookie": { "count": 2 },
+            "Flip Out": { "count": 2 },
+            "Nice Jingle": { "count": 2 },
+            "Nice Present": { "count": 2 },
+            "Pudding": { "count": 2 },
+            "I'm on Fire!": { "count": 2 },
+            "Rbits": { "count": 2 },
+            "Rainbow-Colored Circle": { "count": 2 },
+            "Final Battle": { "count": 2 },
+            "Bad Pudding": { "count": 2 },
+            "Mimyuu's Hammer": { "count": 2 },
+            "Dangerous Pudding": { "count": 2 },
+            "Assault": { "count": 2 },
+            "Sky Restaurant 'Pures'": { "count": 2 },
+            "Here and There": { "count": 2 },
+            "Holy Night": { "count": 2 },
+            "Out of Ammo": { "count": 2 },
+            "Gift Exchange": { "count": 2 },
+            "Little War": { "count": 2 }
+        },
+        "Expansion Pack": {
+            "Long-Distance Shot": { "count": 2 },
+            "Stiff Crystal": { "count": 2 },
+            "Extend": { "count": 2 },
+            "Princess's Privilege": { "count": 2 },
+            "Big Magnum": { "count": 2 },
+            "Shield": { "count": 2 },
+            "Reverse Attribute Field": { "count": 2 },
+            "Piggy Bank": { "count": 2 },
+            "Invasion": { "count": 2 },
+            "Go Away": { "count": 2 },
+            "Heat 300%": { "count": 2 },
+            "Tragedy in the Dead of Night": { "count": 2 },
+            "Exchange": { "count": 2 },
+            "Flamethrower": { "count": 2 },
+            "For the Future of the Toy Store": { "count": 2 },
+            "Cloud of Seagulls": { "count": 2 },
+            "We Are Waruda": { "count": 2 },
+            "Dinner": { "count": 2 },
+            "Super All-Out Mode": { "count": 2 },
+            "Forced Revival": { "count": 2 },
+            "Oh My Friend": { "count": 2 },
+            "Sealed Guardian": { "count": 2 }
+        },
+        "Mixed Booster Pack": {
+            "Lonely Chariot": { "count": 2 },
+            "Ambush": { "count": 2 },
+            "Passionate Research": { "count": 2 },
+            "President's Privilege": { "count": 2 },
+            "Mimic": { "count": 2 },
+            "Tactical Retreat": { "count": 2 },
+            "Shield Counter": { "count": 2 },
+            "Piyopiyo Procession": { "count": 2 },
+            "Sealed Memories": { "count": 2 },
+            "Mix Phenomenon": { "count": 2 },
+            "Scary Solicitation": { "count": 2 }
+        },
+        "Acceleration Pack": {
+            "Completion Reward": { "count": 2 },
+            "Gentleman's Battle": { "count": 2 },
+            "Accel Hyper": { "count": 2 },
+            "Extension": { "count": 2 },
+            "Quick Restoration": { "count": 2 },
+            "Brutal Prank": { "count": 2 },
+            "Present Thief": { "count": 2 },
+            "Play of the Gods": { "count": 2 },
+            "Scrambled Eve": { "count": 2 },
+            "Star-Blasting Light": { "count": 2 },
+            "Unlucky Charm": { "count": 1 },
+            "Windy Enchantment": { "count": 1 }
+        },
+        "Community Pack 1": {
+            "Treasure Thief": { "count": 2 },
+            "Dark Side of Business": { "count": 2 },
+            "Wanted": { "count": 2 },
+            "Party Time": { "count": 2 },
+            "Lost Child": { "count": 1 },
+            "Price of Power": { "count": 1 }
+        },
+        "Community Pack 2": {
+            "Path Blockers": { "count": 2 },
+            "Desperate Modification": { "count": 2 },
+            "Poppoformation": { "count": 2 },
+            "Accelerating Sky": { "count": 2 },
+            "Poppo the Snatcher": { "count": 1 },
+            "Bloodlust": { "count": 1 }
+        },
+        "Pudding Pack": {
+            "Backdoor Trade": { "count": 2 },
+            "Sink or Swim": { "count": 2 },
+            "Serious Battle": { "count": 2 },
+            "Portable Pudding": { "count": 2 },
+            "I Wanna See You": { "count": 2 },
+            "Encore": { "count": 2 },
+            "Sweet Destroyer": { "count": 2 },
+            "Serene Hush": { "count": 2 },
+            "Unpaid Work": { "count": 2 },
+            "Indiscriminate Fire Support": { "count": 2 },
+            "Lucky Charm": { "count": 1 },
+            "Metallic Monocoque": { "count": 1 }
+        },
+        "Community Pack 3": {
+            "Overtime": { "count": 2 },
+            "Deceptive Disarming": { "count": 2 },
+            "BanaNana": { "count": 2 },
+            "Pet Snacks": { "count": 2 },
+            "Home Improvement": { "count": 2 },
+            "Lucky Sevens": { "count": 1 }
+        },
+        "Community Pack 4": {
+            "Warp Control": { "count": 2 },
+            "My Wild Friends": { "count": 2 },
+            "Contest of Cuteness": { "count": 2 },
+            "Bank of Poppo": { "count": 2 },
+            "Rebellion": { "count": 2 },
+            "Nanako's Bit": { "count": 1 }
+        }
     }
 }
