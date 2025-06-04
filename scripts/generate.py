@@ -29,7 +29,7 @@ class GameContent(DataClassJsonMixin):
     extra_episodes: dict[str, GameExtra]
     characters: list[str]
     cards: dict[str, GameCard]
-    goals: list[str]
+    goals: dict[str, str]
 
 
 class DlcCategoryResolver:
@@ -143,8 +143,9 @@ if __name__ == "__main__":
             category=["(Extras Completion)", *dlc_categories],
         )
 
+    character_items: dict[str, ap.Item] = {}
     for character in content.characters:
-        builder.item(
+        character_items[character] = builder.item(
             character,
             useful=True,
             category=["Characters"],
@@ -158,8 +159,18 @@ if __name__ == "__main__":
             category=["Cards"],
         )
 
-    for goal in content.goals:
-        builder.location(goal, category=["(Goals)"])
+    for character_name, goal in content.goals.items():
+        goal_character = character_items.get(character_name)
+        if not goal_character:
+            print(
+                f'Warning: failed to find character "{character_name}" for goal "{goal}"'
+            )
+
+        builder.location(
+            f"{character_name}: {goal}",
+            category=["(Goals)"],
+            requires=goal_character,
+        )
 
     builder.location(
         "69,420,000,000 Oranges",
