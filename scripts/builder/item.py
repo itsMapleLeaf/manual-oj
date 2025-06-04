@@ -17,7 +17,7 @@ class ItemBase(TypedDict):
 
 
 class ItemArgs(ItemBase):
-    category: NotRequired[list[CategoryInput]]
+    category: NotRequired[CategoryInput | list[CategoryInput]]
 
 
 class ItemData(ItemBase):
@@ -34,4 +34,8 @@ class Item:
         self.name = name
         self.data = {"name": name, **kwargs}
         if category_input:
-            self.data["category"] = Category.from_list_input(category_input)
+            self.data["category"] = (
+                Category.from_list_input(category_input)
+                if isinstance(category_input, list)
+                else [Category.from_input(category_input)]
+            )

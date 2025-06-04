@@ -37,7 +37,10 @@ class WorldBuilder:
         return self.__set_unique(self.options, name, ToggleOption(name, **kwargs))
 
     def generate_data(self):
-        print(f"{len(self.items)} items")
+        computed_item_count = sum(
+            item.data.get("count", 1) for item in self.items.values()
+        )
+        print(f"{computed_item_count} items")
         print(f"{len(self.locations)} locations")
         print(f"{len(self.categories)} categories")
         print(f"{len(self.options)} options")

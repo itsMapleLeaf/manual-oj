@@ -1,4 +1,5 @@
 {
+    "victory_campaign": "Tomomo Hell",
     "campaigns": {
         "QP": {
             "episodes": 5
@@ -39,14 +40,11 @@
         "Waruda Prison Break": {
             "episodes": 5,
             "dlc": "Waruda Prison Break Pack"
-        }
-    },
-    "extra_episodes": {
+        },
         "Midnight = Kemonomimi": {},
         "Struggle of the Cyborg": {},
         "Twilight of the Pilots": {},
         "Mysterious Space Odyssey": {},
-        "Tomomo Hell": {},
         "Mio's Dark Citadel": {},
         "Secret Santa": {},
         "Chaos of the Sweet Gods": {
@@ -56,98 +54,183 @@
             "dlc": "Alicianrone & Teotoratta Character Pack"
         }
     },
-    "characters": [
-        "QP",
-        "Yuki",
-        "Aru",
-        "Suguri",
-        "Hime",
-        "Sora",
-        "Marc",
-        "Fernet",
-        "Peat",
-        "Kai",
-        "Marie Poppo",
-        "Tomomo",
-        "Chicken",
-        "Robo Ball",
-        "Seagull",
-        "Store Manager",
-        "Shifu Robot",
-        "Flying Castle",
-        "Syura",
-        "Nanako",
-        "QP (Dangerous)",
-        "Saki",
-        "Kyousuke",
-        "Krilalaris",
-        "Kae",
-        "Alte",
-        "Kyoko",
-        "Marie Poppo (Mixed)",
-        "Sham",
-        "Sherry",
-        "Sora (Military)",
-        "Star Breaker",
-        "Sweet Breaker",
-        "Aru (Scramble)",
-        "Nath",
-        "Mimyuu",
-        "Tomato",
-        "Kiriko",
-        "NoName",
-        "NoName (Head)",
-        "Ceoreparque",
-        "Miusaki",
-        "Yuki (Dangerous)",
-        "Tomomo (Casual)",
-        "Suguri (Ver.2)",
-        "Tsih",
-        "Tequila",
-        "Mei",
-        "Natsumi",
-        "Nico",
-        "Arthur",
-        "Iru",
-        "Mira",
-        "Cuties",
-        "Yuuki",
-        "Islay",
-        "Mio",
-        "Suguri (46 Billion Years)",
-        "Sumika",
-        "Ellie",
-        "Lulu",
-        "Marc (Pilot)",
-        "Alicianrone",
-        "Teotoratta",
-        "Arnelle",
-        "Maynie",
-        "Kyupita",
-        "Chris",
-        "Halena",
-        "Cook",
-        "Lone Rider",
-        "Merchant",
-        "Hime (Moonlight)",
-        "Fernet (Noble)",
-        "Malt",
-        "Mescal",
-        "Shifu",
-        "Hoshino Reika",
-        "Watty",
-        "Pomeranius",
-        "Sweet Creator",
-        "Saki (Sweet Maker)",
-        "Natsumi (Sweet Blogger)",
-        "Mio (Festive)",
-        "Krilalaris (Pajamas)",
-        "Mimyuu (Jailbird)",
-        "Mother Poppo",
-        "Dark Lulu",
-        "Hyper Ellie",
-        "Kai (Hero)"
-    ],
+    "characters": {
+        "QP": {
+            "goal": "Win a game after bringing 10 unique cards"
+        },
+        "Yuki": {
+            "goal": "Win a game with Wins"
+        },
+        "Aru": {
+            "goal": "Cause Other Players to draw 4+ Cards in one Turn"
+        },
+        "Suguri": {
+            "goal": "Roll a movement of 12 or higher."
+        },
+        "Hime": {
+            "goal": "KO 2 players in a single turn"
+        },
+        "Sora": {
+            "goal": "KO a Player from 6+ Spaces Away"
+        },
+        "Marc": {
+            "goal": "KO a Full HP player with x16 Big Rocket"
+        },
+        "Fernet": {
+            "goal": "Complete a Wins Norma of 4 or higher"
+        },
+        "Peat": {
+            "goal": "Successfully Evade after using your Hyper"
+        },
+        "Kai": {
+            "goal": "Complete a Story Mission"
+        },
+        "Marie Poppo": {
+            "goal": "KO a player with \"Reverse Attribute Field\""
+        },
+        "Tomomo": {
+            "goal": "At any point, be the only standing player."
+        },
+        "Chicken": {
+            "goal": "Land on your own Hyper"
+        },
+        "Robo Ball": {
+            "goal": "Obtain 5+ wins in a single game"
+        },
+        "Seagull": {
+            "goal": "Play your Hyper and a Battle Card together"
+        },
+        "Store Manager": {
+            "goal": "KO the field boss"
+        },
+        "Shifu Robot": {
+            "goal": "KO the field boss"
+        },
+        "Flying Castle": {
+            "goal": "KO the field boss"
+        },
+        "Syura": {
+            "goal": "KO a player while at 1 HP"
+        },
+        "Nanako": {
+            "goal": "Gain Atleast 3 ATK from your Hyper"
+        },
+        "QP (Dangerous)": {},
+        "Saki": {
+            "goal": "KO a player who lands on your Hyper"
+        },
+        "Kyousuke": {
+            "goal": "Use 2 Hypers in 1 Game"
+        },
+        "Krilalaris": {
+            "goal": "Increase your Max HP to 8"
+        },
+        "Kae": {
+            "goal": "Roll a 9+ Attack (After Modifiers)"
+        },
+        "Alte": {
+            "goal": "Self-destruct a boss"
+        },
+        "Kyoko": {
+            "goal": "Survive a match without being KO'd by another player"
+        },
+        "Marie Poppo (Mixed)": {},
+        "Sham": {
+            "goal": "Force a player to fight the boss"
+        },
+        "Sherry": {
+            "goal": "KO another player or the field boss with Shield Counter"
+        },
+        "Sora (Military)": {},
+        "Star Breaker": {
+            "goal": "Hold 200 or more Stars"
+        },
+        "Sweet Breaker": {
+            "goal": "Use Melting Memories to flip 3 cards from a single player"
+        },
+        "Aru (Scramble)": {},
+        "Nath": {
+            "goal": "Reach 3 stacks of Active Extension"
+        },
+        "Mimyuu": {
+            "goal": "Have any player draw Evil Spy Work - Execution off of Passionate Research"
+        },
+        "Tomato": {
+            "goal": "KO a player within one chapter of them KOing Mimyuu"
+        },
+        "Kiriko": {
+            "goal": "Lower your Max HP to 2"
+        },
+        "NoName": {
+            "goal": "KO a player in Head Form"
+        },
+        "Ceoreparque": {
+            "goal": "Complete a Norma two consecutive chapters in a row"
+        },
+        "Miusaki": {
+            "goal": "Win a battle where Final Battle is played"
+        },
+        "Yuki (Dangerous)": {
+            "goal": "Complete a Wins Norma of 4 or higher"
+        },
+        "Tomomo (Casual)": {
+            "goal": "Hold 3+ Hypers at Once"
+        },
+        "Suguri (Ver.2)": {},
+        "Tsih": {
+            "goal": "Hold 3 Gifts"
+        },
+        "Tequila": {
+            "goal": "KO another player while you have 1 HP"
+        },
+        "Mei": {},
+        "Natsumi": {},
+        "Nico": {},
+        "Arthur": {},
+        "Iru": {},
+        "Mira": {},
+        "Cuties": {},
+        "Yuuki": {},
+        "Islay": {},
+        "Mio": {
+            "goal": "50 or more stars from Magical Inferno"
+        },
+        "Suguri (46 Billion Years)": {},
+        "Sumika": {},
+        "Ellie": {},
+        "Lulu": {},
+        "Marc (Pilot)": {},
+        "Alicianrone": {},
+        "Teotoratta": {},
+        "Arnelle": {},
+        "Maynie": {},
+        "Kyupita": {},
+        "Chris": {},
+        "Halena": {},
+        "Cook": {},
+        "Lone Rider": {},
+        "Merchant": {},
+        "Hime (Moonlight)": {},
+        "Fernet (Noble)": {},
+        "Malt": {},
+        "Mescal": {},
+        "Shifu": {},
+        "Hoshino Reika": {},
+        "Watty": {},
+        "Pomeranius": {},
+        "Sweet Creator": {},
+        "Saki (Sweet Maker)": {},
+        "Natsumi (Sweet Blogger)": {},
+        "Mio (Festive)": {
+            "goal": "Win with Mio's Christmas Cake in your hand"
+        },
+        "Krilalaris (Pajamas)": {},
+        "Mimyuu (Jailbird)": {},
+        "Mother Poppo": {},
+        "Dark Lulu": {},
+        "Hyper Ellie": {},
+        "Kai (Hero)": {}
+    },
     "cards": {
         "Ambush": { "count": 2 },
         "Backdoor Trade": { "count": 2 },
@@ -250,50 +333,5 @@
         "Price of Power": { "count": 1 },
         "Unlucky Charm": { "count": 1 },
         "Windy Enchantment": { "count": 1 }
-    },
-    "goals": {
-        "QP": "Win a game after bringing 10 unique cards",
-        "Yuki": "Win a game with Wins",
-        "Aru": "Cause Other Players to draw 4+ Cards in one Turn",
-        "Suguri": "Roll a movement of 12 or higher.",
-        "Hime": "KO 2 players in a single turn",
-        "Sora": "KO a Player from 6+ Spaces Away",
-        "Marc": "KO a Full HP player with x16 Big Rocket",
-        "Fernet": "Complete a Wins Norma of 4 or higher",
-        "Peat": "Successfully Evade after using your Hyper",
-        "Kai": "Complete a Story Mission",
-        "Marie Poppo": "KO a player with \"Reverse Attribute Field\"",
-        "Tomomo": "At any point, be the only standing player.",
-        "Chicken": "Land on your own Hyper",
-        "Robo Ball": "Obtain 5+ wins in a single game",
-        "Seagull": "Play your Hyper and a Battle Card together",
-        "Store Manager": "KO the field boss",
-        "Shifu Robot": "KO the field boss",
-        "Flying Castle": "KO the field boss",
-        "Mio": "50 or more stars from Magical Inferno",
-        "Mio (Festive)": "Win with Mio's Christmas Cake in your hand",
-        "Syura": "KO a player while at 1 HP",
-        "Nanako": "Gain Atleast 3 ATK from your Hyper",
-        "Saki": "KO a player who lands on your Hyper",
-        "Kyousuke": "Use 2 Hypers in 1 Game",
-        "Krilalaris": "Increase your Max HP to 8",
-        "Kae": "Roll a 9+ Attack (After Modifiers)",
-        "Alte": "Self-destruct a boss",
-        "Kyoko": "Survive a match without being KO'd by another player",
-        "Sham": "Force a player to fight the boss",
-        "Sherry": "KO another player or the field boss with Shield Counter",
-        "Star Breaker": "Hold 200 or more Stars",
-        "Sweet Breaker": "Use Melting Memories to flip 3 cards from a single player",
-        "Nath": "Reach 3 stacks of Active Extension",
-        "Mimyuu": "Have any player draw Evil Spy Work - Execution off of Passionate Research",
-        "Tomato": "KO a player within one chapter of them KOing Mimyuu",
-        "Kiriko": "Lower your Max HP to 2",
-        "NoName": "KO a player in Head Form",
-        "Ceoreparque": "Complete a Norma two consecutive chapters in a row",
-        "Miusaki": "Win a battle where Final Battle is played",
-        "Yuki (Dangerous)": "Complete a Wins Norma of 4 or higher",
-        "Tomomo (Casual)": "Hold 3+ Hypers at Once",
-        "Tsih": "Hold 3 Gifts",
-        "Tequila": "KO another player while you have 1 HP"
     }
 }

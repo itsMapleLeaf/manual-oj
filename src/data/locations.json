@@ -42,16 +42,6 @@
         "requires": "|QP (Campaign)|"
     },
     {
-        "name": "QP (All Episodes)",
-        "place_item": [
-            "QP (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) QP"
-        ],
-        "requires": "|QP (Campaign)|"
-    },
-    {
         "name": "Suguri (Episode 1)",
         "category": [
             "(Campaign) Suguri"
@@ -90,16 +80,6 @@
         "name": "Suguri (Final Episode)",
         "category": [
             "(Campaign) Suguri"
-        ],
-        "requires": "|Suguri (Campaign)|"
-    },
-    {
-        "name": "Suguri (All Episodes)",
-        "place_item": [
-            "Suguri (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Suguri"
         ],
         "requires": "|Suguri (Campaign)|"
     },
@@ -146,16 +126,6 @@
         "requires": "|Marc (Campaign)|"
     },
     {
-        "name": "Marc (All Episodes)",
-        "place_item": [
-            "Marc (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Marc"
-        ],
-        "requires": "|Marc (Campaign)|"
-    },
-    {
         "name": "Kai (Episode 1)",
         "category": [
             "(Campaign) Kai"
@@ -194,16 +164,6 @@
         "name": "Kai (Final Episode)",
         "category": [
             "(Campaign) Kai"
-        ],
-        "requires": "|Kai (Campaign)|"
-    },
-    {
-        "name": "Kai (All Episodes)",
-        "place_item": [
-            "Kai (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Kai"
         ],
         "requires": "|Kai (Campaign)|"
     },
@@ -256,17 +216,6 @@
         "requires": "|Star Breaker (Campaign)|"
     },
     {
-        "name": "Star Breaker (All Episodes)",
-        "place_item": [
-            "Star Breaker (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Star Breaker",
-            "Breaker Pack DLC"
-        ],
-        "requires": "|Star Breaker (Campaign)|"
-    },
-    {
         "name": "Sweet Breaker (Episode 1)",
         "category": [
             "(Campaign) Sweet Breaker",
@@ -310,17 +259,6 @@
         "name": "Sweet Breaker (Final Episode)",
         "category": [
             "(Campaign) Sweet Breaker",
-            "Breaker Pack DLC"
-        ],
-        "requires": "|Sweet Breaker (Campaign)|"
-    },
-    {
-        "name": "Sweet Breaker (All Episodes)",
-        "place_item": [
-            "Sweet Breaker (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Sweet Breaker",
             "Breaker Pack DLC"
         ],
         "requires": "|Sweet Breaker (Campaign)|"
@@ -406,17 +344,6 @@
         "requires": "|Girl Power|"
     },
     {
-        "name": "Girl Power (All Episodes)",
-        "place_item": [
-            "Girl Power (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Girl Power",
-            "Witch Pack DLC"
-        ],
-        "requires": "|Girl Power|"
-    },
-    {
         "name": "Crossed Christmases (Episode 1)",
         "category": [
             "(Campaign) Crossed Christmases",
@@ -460,17 +387,6 @@
         "name": "Crossed Christmases (Final Episode)",
         "category": [
             "(Campaign) Crossed Christmases",
-            "Toy Store Pack DLC"
-        ],
-        "requires": "|Crossed Christmases|"
-    },
-    {
-        "name": "Crossed Christmases (All Episodes)",
-        "place_item": [
-            "Crossed Christmases (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Crossed Christmases",
             "Toy Store Pack DLC"
         ],
         "requires": "|Crossed Christmases|"
@@ -556,17 +472,6 @@
         "requires": "|Old Guardians|"
     },
     {
-        "name": "Old Guardians (All Episodes)",
-        "place_item": [
-            "Old Guardians (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Old Guardians",
-            "Old Guardian Pack DLC"
-        ],
-        "requires": "|Old Guardians|"
-    },
-    {
         "name": "Wanderers (Episode 1)",
         "category": [
             "(Campaign) Wanderers",
@@ -602,17 +507,6 @@
         "name": "Wanderers (Final Episode)",
         "category": [
             "(Campaign) Wanderers",
-            "Wanderer Pack DLC"
-        ],
-        "requires": "|Wanderers|"
-    },
-    {
-        "name": "Wanderers (All Episodes)",
-        "place_item": [
-            "Wanderers (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Wanderers",
             "Wanderer Pack DLC"
         ],
         "requires": "|Wanderers|"
@@ -666,172 +560,62 @@
         "requires": "|Waruda Prison Break|"
     },
     {
-        "name": "Waruda Prison Break (All Episodes)",
-        "place_item": [
-            "Waruda Prison Break (All Episodes)"
-        ],
-        "category": [
-            "(Campaign Completion) Waruda Prison Break",
-            "Waruda Prison Break Pack DLC"
-        ],
-        "requires": "|Waruda Prison Break|"
-    },
-    {
         "name": "Midnight = Kemonomimi",
         "category": [
-            "(Extras)"
+            "(Campaign) Midnight = Kemonomimi"
         ],
-        "requires": "|Midnight = Kemonomimi (Extra)|"
-    },
-    {
-        "name": "Midnight = Kemonomimi (Completion)",
-        "place_item": [
-            "Midnight = Kemonomimi (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Midnight = Kemonomimi (Extra)|"
+        "requires": "|Midnight = Kemonomimi|"
     },
     {
         "name": "Struggle of the Cyborg",
         "category": [
-            "(Extras)"
+            "(Campaign) Struggle of the Cyborg"
         ],
-        "requires": "|Struggle of the Cyborg (Extra)|"
-    },
-    {
-        "name": "Struggle of the Cyborg (Completion)",
-        "place_item": [
-            "Struggle of the Cyborg (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Struggle of the Cyborg (Extra)|"
+        "requires": "|Struggle of the Cyborg|"
     },
     {
         "name": "Twilight of the Pilots",
         "category": [
-            "(Extras)"
+            "(Campaign) Twilight of the Pilots"
         ],
-        "requires": "|Twilight of the Pilots (Extra)|"
-    },
-    {
-        "name": "Twilight of the Pilots (Completion)",
-        "place_item": [
-            "Twilight of the Pilots (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Twilight of the Pilots (Extra)|"
+        "requires": "|Twilight of the Pilots|"
     },
     {
         "name": "Mysterious Space Odyssey",
         "category": [
-            "(Extras)"
+            "(Campaign) Mysterious Space Odyssey"
         ],
-        "requires": "|Mysterious Space Odyssey (Extra)|"
-    },
-    {
-        "name": "Mysterious Space Odyssey (Completion)",
-        "place_item": [
-            "Mysterious Space Odyssey (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Mysterious Space Odyssey (Extra)|"
-    },
-    {
-        "name": "Tomomo Hell",
-        "category": [
-            "(Extras)"
-        ],
-        "requires": "|Tomomo Hell (Extra)|"
-    },
-    {
-        "name": "Tomomo Hell (Completion)",
-        "place_item": [
-            "Tomomo Hell (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Tomomo Hell (Extra)|"
+        "requires": "|Mysterious Space Odyssey|"
     },
     {
         "name": "Mio's Dark Citadel",
         "category": [
-            "(Extras)"
+            "(Campaign) Mio's Dark Citadel"
         ],
-        "requires": "|Mio's Dark Citadel (Extra)|"
-    },
-    {
-        "name": "Mio's Dark Citadel (Completion)",
-        "place_item": [
-            "Mio's Dark Citadel (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Mio's Dark Citadel (Extra)|"
+        "requires": "|Mio's Dark Citadel|"
     },
     {
         "name": "Secret Santa",
         "category": [
-            "(Extras)"
+            "(Campaign) Secret Santa"
         ],
-        "requires": "|Secret Santa (Extra)|"
-    },
-    {
-        "name": "Secret Santa (Completion)",
-        "place_item": [
-            "Secret Santa (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)"
-        ],
-        "requires": "|Secret Santa (Extra)|"
+        "requires": "|Secret Santa|"
     },
     {
         "name": "Chaos of the Sweet Gods",
         "category": [
-            "(Extras)",
+            "(Campaign) Chaos of the Sweet Gods",
             "Breaker Pack DLC"
         ],
-        "requires": "|Chaos of the Sweet Gods (Extra)|"
-    },
-    {
-        "name": "Chaos of the Sweet Gods (Completion)",
-        "place_item": [
-            "Chaos of the Sweet Gods (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)",
-            "Breaker Pack DLC"
-        ],
-        "requires": "|Chaos of the Sweet Gods (Extra)|"
+        "requires": "|Chaos of the Sweet Gods|"
     },
     {
         "name": "Game Night of the Witches",
         "category": [
-            "(Extras)",
+            "(Campaign) Game Night of the Witches",
             "Alicianrone & Teotoratta Character Pack DLC"
         ],
-        "requires": "|Game Night of the Witches (Extra)|"
-    },
-    {
-        "name": "Game Night of the Witches (Completion)",
-        "place_item": [
-            "Game Night of the Witches (Complete)"
-        ],
-        "category": [
-            "(Extras Completion)",
-            "Alicianrone & Teotoratta Character Pack DLC"
-        ],
-        "requires": "|Game Night of the Witches (Extra)|"
+        "requires": "|Game Night of the Witches|"
     },
     {
         "name": "QP: Win a game after bringing 10 unique cards",
@@ -958,20 +742,6 @@
             "(Goals)"
         ],
         "requires": "|Flying Castle|"
-    },
-    {
-        "name": "Mio: 50 or more stars from Magical Inferno",
-        "category": [
-            "(Goals)"
-        ],
-        "requires": "|Mio|"
-    },
-    {
-        "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
-        "category": [
-            "(Goals)"
-        ],
-        "requires": "|Mio (Festive)|"
     },
     {
         "name": "Syura: KO a player while at 1 HP",
@@ -1135,11 +905,25 @@
         "requires": "|Tequila|"
     },
     {
-        "name": "69,420,000,000 Oranges",
+        "name": "Mio: 50 or more stars from Magical Inferno",
+        "category": [
+            "(Goals)"
+        ],
+        "requires": "|Mio|"
+    },
+    {
+        "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
+        "category": [
+            "(Goals)"
+        ],
+        "requires": "|Mio (Festive)|"
+    },
+    {
+        "name": "Tomomo Hell (Victory)",
         "victory": true,
         "category": [
             "((Victory))"
         ],
-        "requires": "|@Completed Campaigns:80%|"
+        "requires": "|Orange:20|"
     }
 ]

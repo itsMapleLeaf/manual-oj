@@ -7,24 +7,10 @@
         ]
     },
     {
-        "name": "QP (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
         "name": "Suguri (Campaign)",
         "progression": true,
         "category": [
             "Campaigns"
-        ]
-    },
-    {
-        "name": "Suguri (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
         ]
     },
     {
@@ -35,13 +21,6 @@
         ]
     },
     {
-        "name": "Marc (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
         "name": "Kai (Campaign)",
         "progression": true,
         "category": [
@@ -49,25 +28,10 @@
         ]
     },
     {
-        "name": "Kai (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
         "name": "Star Breaker (Campaign)",
         "progression": true,
         "category": [
             "Campaigns",
-            "Breaker Pack DLC"
-        ]
-    },
-    {
-        "name": "Star Breaker (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
             "Breaker Pack DLC"
         ]
     },
@@ -80,26 +44,10 @@
         ]
     },
     {
-        "name": "Sweet Breaker (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
-            "Breaker Pack DLC"
-        ]
-    },
-    {
         "name": "Girl Power",
         "progression": true,
         "category": [
             "Campaigns",
-            "Witch Pack DLC"
-        ]
-    },
-    {
-        "name": "Girl Power (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
             "Witch Pack DLC"
         ]
     },
@@ -112,26 +60,10 @@
         ]
     },
     {
-        "name": "Crossed Christmases (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
-            "Toy Store Pack DLC"
-        ]
-    },
-    {
         "name": "Old Guardians",
         "progression": true,
         "category": [
             "Campaigns",
-            "Old Guardian Pack DLC"
-        ]
-    },
-    {
-        "name": "Old Guardians (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
             "Old Guardian Pack DLC"
         ]
     },
@@ -144,14 +76,6 @@
         ]
     },
     {
-        "name": "Wanderers (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
-            "Wanderer Pack DLC"
-        ]
-    },
-    {
         "name": "Waruda Prison Break",
         "progression": true,
         "category": [
@@ -160,113 +84,49 @@
         ]
     },
     {
-        "name": "Waruda Prison Break (All Episodes)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
-            "Waruda Prison Break Pack DLC"
-        ]
-    },
-    {
-        "name": "Midnight = Kemonomimi (Extra)",
+        "name": "Midnight = Kemonomimi",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Midnight = Kemonomimi (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Struggle of the Cyborg (Extra)",
+        "name": "Struggle of the Cyborg",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Struggle of the Cyborg (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Twilight of the Pilots (Extra)",
+        "name": "Twilight of the Pilots",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Twilight of the Pilots (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Mysterious Space Odyssey (Extra)",
+        "name": "Mysterious Space Odyssey",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Mysterious Space Odyssey (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Tomomo Hell (Extra)",
+        "name": "Mio's Dark Citadel",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Tomomo Hell (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Mio's Dark Citadel (Extra)",
+        "name": "Secret Santa",
         "progression": true,
         "category": [
             "Campaigns"
         ]
     },
     {
-        "name": "Mio's Dark Citadel (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Secret Santa (Extra)",
-        "progression": true,
-        "category": [
-            "Campaigns"
-        ]
-    },
-    {
-        "name": "Secret Santa (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns"
-        ]
-    },
-    {
-        "name": "Chaos of the Sweet Gods (Extra)",
+        "name": "Chaos of the Sweet Gods",
         "progression": true,
         "category": [
             "Campaigns",
@@ -274,26 +134,10 @@
         ]
     },
     {
-        "name": "Chaos of the Sweet Gods (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
-            "Breaker Pack DLC"
-        ]
-    },
-    {
-        "name": "Game Night of the Witches (Extra)",
+        "name": "Game Night of the Witches",
         "progression": true,
         "category": [
             "Campaigns",
-            "Alicianrone & Teotoratta Character Pack DLC"
-        ]
-    },
-    {
-        "name": "Game Night of the Witches (Complete)",
-        "progression": true,
-        "category": [
-            "Completed Campaigns",
             "Alicianrone & Teotoratta Character Pack DLC"
         ]
     },
@@ -1733,6 +1577,14 @@
         "useful": true,
         "category": [
             "Cards"
+        ]
+    },
+    {
+        "name": "Orange",
+        "useful": true,
+        "count": 30,
+        "category": [
+            "Oranges"
         ]
     }
 ]
