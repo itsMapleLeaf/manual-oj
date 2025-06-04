@@ -1657,7 +1657,7 @@
     },
     {
         "name": "Bloodlust",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1665,7 +1665,7 @@
     },
     {
         "name": "Lost Child",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1673,7 +1673,7 @@
     },
     {
         "name": "Lucky Charm",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Lucky Sevens",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1689,7 +1689,7 @@
     },
     {
         "name": "Metallic Monocoque",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1697,7 +1697,7 @@
     },
     {
         "name": "Nanako's Bit",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1705,7 +1705,7 @@
     },
     {
         "name": "Poppo the Snatcher",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1713,7 +1713,7 @@
     },
     {
         "name": "Price of Power",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "Unlucky Charm",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"
@@ -1729,7 +1729,7 @@
     },
     {
         "name": "Windy Enchantment",
-        "count": 2,
+        "count": 1,
         "useful": true,
         "category": [
             "Cards"

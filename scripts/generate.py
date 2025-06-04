@@ -19,11 +19,16 @@ class GameExtra(DataClassJsonMixin):
 
 
 @dataclass
+class GameCard:
+    count: int
+
+
+@dataclass
 class GameContent(DataClassJsonMixin):
     campaigns: dict[str, GameCampaign]
     extra_episodes: dict[str, GameExtra]
     characters: list[str]
-    cards: list[str]
+    cards: dict[str, GameCard]
     goals: list[str]
 
 
@@ -145,8 +150,13 @@ if __name__ == "__main__":
             category=["Characters"],
         )
 
-    for card in content.cards:
-        builder.item(card, count=2, useful=True, category=["Cards"])
+    for card_name, card_info in content.cards.items():
+        builder.item(
+            card_name,
+            count=card_info.count,
+            useful=True,
+            category=["Cards"],
+        )
 
     for goal in content.goals:
         builder.location(goal, category=["(Goals)"])
