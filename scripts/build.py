@@ -40,16 +40,14 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
         if name in self.dlc_categories:
             return self.dlc_categories[name]
 
-        dlc_option = self.toggle_option(
-            f"enable_{to_snake_case(name)}_dlc",
-            description=f"Enables the {name} DLC.",
-            default=True,
-        )
-
         dlc_category = self.category(
             f"{name} DLC",
             hidden=True,
-            yaml_option=[dlc_option.name],
+            yaml_option=self.toggle_option(
+                f"enable_{to_snake_case(name)}_dlc",
+                description=f"Enables the {name} DLC.",
+                default=True,
+            ),
         )
 
         self.dlc_categories[name] = dlc_category
@@ -103,26 +101,44 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
                     category=[campaign_location_category, *dlc_categories],
                 )
 
+        characters_category = self.category(
+            "Characters",
+            yaml_option=self.toggle_option(
+                "randomize_characters",
+                description="Add characters to the pool, requiring unlocking them to use them. Disable this to allow using all characters throughout the game.",
+                default=True,
+            ),
+        )
+
         for character_name, character_info in content.characters.items():
             character_item = self.item(
                 character_name,
                 useful=True,
-                category=["Characters"],
+                category=characters_category,
             )
 
             if character_info.goal:
                 self.location(
                     f"{character_name}: {character_info.goal}",
                     category=["(Goals)"],
-                    requires=character_item,
+                    requires=f"{{OptOne({character_item.name})}}",
                 )
+
+        cards_category = self.category(
+            "Characters",
+            yaml_option=self.toggle_option(
+                "randomize_cards",
+                description="Add cards to the pool, requiring unlocking them to use them. Disable this to allow using all cards throughout the game.",
+                default=True,
+            ),
+        )
 
         for card_name, card_info in content.cards.items():
             self.item(
                 card_name,
                 count=card_info.count,
                 useful=True,
-                category=["Cards"],
+                category=cards_category,
             )
 
         orange = self.item(
