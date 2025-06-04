@@ -128,14 +128,14 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
         orange = self.item(
             "Orange",
             progression=True,
-            count=30,
+            count=50,
             category=["Oranges"],
         )
 
         self.location(
             f"{content.victory_campaign} (Victory)",
             victory=True,
-            requires=some_of(orange, 20),
+            requires=some_of(orange, "70%"),
             category=["((Victory))"],
         )
 
