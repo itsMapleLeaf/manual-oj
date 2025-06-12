@@ -6,7 +6,7 @@ from typing import Optional
 from dotenv import load_dotenv
 
 from .builder.location import some_of
-from .builder import WorldBuilder, Category, Item
+from .builder import WorldBuilder, Category
 
 
 @dataclass
@@ -125,36 +125,44 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
                 )
 
         for character_name, character_info in content.characters.items():
-            if not character_info.goal:
-                character_item = self.item(
-                    character_name,
-                    useful=True,
-                    category=[
-                        characters_category,
-                        *self.resolve_dlc_category(character_info.dlc),
-                    ],
-                )
-            else:
-                character_item = self.item(
-                    character_name,
-                    progression=True,
-                    category=[
-                        characters_category,
-                        *self.resolve_dlc_category(character_info.dlc),
-                    ],
+            character_requirement = f"|{character_name}|"
+
+            # grosest shit i've ever written
+            character_dlc_category = self.resolve_dlc_category(character_info.dlc)
+            if len(character_dlc_category) > 0:
+                character_requirement = (
+                    f"|@{character_dlc_category[0].name}| and {character_requirement}"
                 )
 
-                character_goal_requires = f"|{character_item.name}|"
+            character_requirement = f"{{OptAll({character_requirement})}}"
 
-                # grosest shit i've ever written
-                character_dlc_category = self.resolve_dlc_category(character_info.dlc)
-                if len(character_dlc_category) > 0:
-                    character_goal_requires = f"|@{character_dlc_category[0].name}| and {character_goal_requires}"
+            self.item(
+                character_name,
+                progression=True,
+                category=[
+                    characters_category,
+                    *self.resolve_dlc_category(character_info.dlc),
+                ],
+            )
 
+            for level in range(1, 6):
+                self.location(
+                    f"{character_name} (Level {level})",
+                    category=[f"(Character) {character_name}"],
+                    requires=character_requirement,
+                )
+
+            self.location(
+                f"{character_name} (Win)",
+                category=[f"(Character) {character_name}"],
+                requires=character_requirement,
+            )
+
+            if character_info.goal:
                 self.location(
                     f"{character_name}: {character_info.goal}",
-                    category=["(Goals)"],
-                    requires=f"{{OptAll({character_goal_requires})}}",
+                    category=[f"(Character) {character_name}"],
+                    requires=character_requirement,
                 )
 
         for card_pack_name, card_pack_dict in content.card_packs.items():

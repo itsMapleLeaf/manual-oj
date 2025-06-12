@@ -283,7 +283,7 @@
     },
     {
         "name": "QP (Dangerous)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -332,7 +332,7 @@
     },
     {
         "name": "Marie Poppo (Mixed)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -353,7 +353,7 @@
     },
     {
         "name": "Sora (Military)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -376,7 +376,7 @@
     },
     {
         "name": "Aru (Scramble)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -448,7 +448,7 @@
     },
     {
         "name": "Suguri (Ver.2)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -469,21 +469,21 @@
     },
     {
         "name": "Mei",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Natsumi",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Nico",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Toy Store Pack DLC"
@@ -491,7 +491,7 @@
     },
     {
         "name": "Arthur",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Toy Store Pack DLC"
@@ -499,35 +499,35 @@
     },
     {
         "name": "Iru",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Mira",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Cuties",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Yuuki",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Islay",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -541,7 +541,7 @@
     },
     {
         "name": "Suguri (46 Billion Years)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Old Guardian Pack DLC"
@@ -549,7 +549,7 @@
     },
     {
         "name": "Sumika",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Old Guardian Pack DLC"
@@ -557,7 +557,7 @@
     },
     {
         "name": "Ellie",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Wanderer Pack DLC"
@@ -565,7 +565,7 @@
     },
     {
         "name": "Lulu",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Wanderer Pack DLC"
@@ -573,154 +573,154 @@
     },
     {
         "name": "Marc (Pilot)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Alicianrone",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Teotoratta",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Arnelle",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Maynie",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kyupita",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Chris",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Halena",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Cook",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Lone Rider",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Merchant",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Hime (Moonlight)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Fernet (Noble)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Malt",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Mescal",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Shifu",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Hoshino Reika",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Watty",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Pomeranius",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Sweet Creator",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Saki (Sweet Maker)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Natsumi (Sweet Blogger)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
@@ -734,7 +734,7 @@
     },
     {
         "name": "Krilalaris (Pajamas)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Waruda Prison Break Pack DLC"
@@ -742,7 +742,7 @@
     },
     {
         "name": "Mimyuu (Jailbird)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters",
             "Waruda Prison Break Pack DLC"
@@ -750,70 +750,70 @@
     },
     {
         "name": "Mother Poppo",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Dark Lulu",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Hyper Ellie",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kai (Hero)",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Bourbon",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Grain",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Poyo",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Chuu",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Haruka",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]
     },
     {
         "name": "Kanata",
-        "useful": true,
+        "progression": true,
         "category": [
             "Characters"
         ]

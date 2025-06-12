@@ -618,305 +618,4295 @@
         "requires": "|Game Night of the Witches|"
     },
     {
-        "name": "QP: Win a game after bringing 10 unique cards",
+        "name": "QP (Level 1)",
         "category": [
-            "(Goals)"
+            "(Character) QP"
         ],
         "requires": "{OptAll(|QP|)}"
     },
     {
-        "name": "Yuki: Win a game with Wins",
+        "name": "QP (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "QP (Level 3)",
+        "category": [
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "QP (Level 4)",
+        "category": [
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "QP (Level 5)",
+        "category": [
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "QP (Win)",
+        "category": [
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "QP: Win a game after bringing 10 unique cards",
+        "category": [
+            "(Character) QP"
+        ],
+        "requires": "{OptAll(|QP|)}"
+    },
+    {
+        "name": "Yuki (Level 1)",
+        "category": [
+            "(Character) Yuki"
         ],
         "requires": "{OptAll(|Yuki|)}"
     },
     {
-        "name": "Aru: Cause Other Players to draw 4+ Cards in one Turn",
+        "name": "Yuki (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Yuki (Level 3)",
+        "category": [
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Yuki (Level 4)",
+        "category": [
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Yuki (Level 5)",
+        "category": [
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Yuki (Win)",
+        "category": [
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Yuki: Win a game with Wins",
+        "category": [
+            "(Character) Yuki"
+        ],
+        "requires": "{OptAll(|Yuki|)}"
+    },
+    {
+        "name": "Aru (Level 1)",
+        "category": [
+            "(Character) Aru"
         ],
         "requires": "{OptAll(|Aru|)}"
     },
     {
-        "name": "Suguri: Roll a movement of 12 or higher.",
+        "name": "Aru (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Aru (Level 3)",
+        "category": [
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Aru (Level 4)",
+        "category": [
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Aru (Level 5)",
+        "category": [
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Aru (Win)",
+        "category": [
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Aru: Cause Other Players to draw 4+ Cards in one Turn",
+        "category": [
+            "(Character) Aru"
+        ],
+        "requires": "{OptAll(|Aru|)}"
+    },
+    {
+        "name": "Suguri (Level 1)",
+        "category": [
+            "(Character) Suguri"
         ],
         "requires": "{OptAll(|Suguri|)}"
     },
     {
-        "name": "Hime: KO 2 players in a single turn",
+        "name": "Suguri (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Suguri (Level 3)",
+        "category": [
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Suguri (Level 4)",
+        "category": [
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Suguri (Level 5)",
+        "category": [
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Suguri (Win)",
+        "category": [
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Suguri: Roll a movement of 12 or higher.",
+        "category": [
+            "(Character) Suguri"
+        ],
+        "requires": "{OptAll(|Suguri|)}"
+    },
+    {
+        "name": "Hime (Level 1)",
+        "category": [
+            "(Character) Hime"
         ],
         "requires": "{OptAll(|Hime|)}"
     },
     {
-        "name": "Sora: KO a Player from 6+ Spaces Away",
+        "name": "Hime (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Hime (Level 3)",
+        "category": [
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Hime (Level 4)",
+        "category": [
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Hime (Level 5)",
+        "category": [
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Hime (Win)",
+        "category": [
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Hime: KO 2 players in a single turn",
+        "category": [
+            "(Character) Hime"
+        ],
+        "requires": "{OptAll(|Hime|)}"
+    },
+    {
+        "name": "Sora (Level 1)",
+        "category": [
+            "(Character) Sora"
         ],
         "requires": "{OptAll(|Sora|)}"
     },
     {
-        "name": "Marc: KO a Full HP player with x16 Big Rocket",
+        "name": "Sora (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Sora (Level 3)",
+        "category": [
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Sora (Level 4)",
+        "category": [
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Sora (Level 5)",
+        "category": [
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Sora (Win)",
+        "category": [
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Sora: KO a Player from 6+ Spaces Away",
+        "category": [
+            "(Character) Sora"
+        ],
+        "requires": "{OptAll(|Sora|)}"
+    },
+    {
+        "name": "Marc (Level 1)",
+        "category": [
+            "(Character) Marc"
         ],
         "requires": "{OptAll(|Marc|)}"
     },
     {
-        "name": "Fernet: Complete a Wins Norma of 4 or higher",
+        "name": "Marc (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Marc (Level 3)",
+        "category": [
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Marc (Level 4)",
+        "category": [
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Marc (Level 5)",
+        "category": [
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Marc (Win)",
+        "category": [
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Marc: KO a Full HP player with x16 Big Rocket",
+        "category": [
+            "(Character) Marc"
+        ],
+        "requires": "{OptAll(|Marc|)}"
+    },
+    {
+        "name": "Fernet (Level 1)",
+        "category": [
+            "(Character) Fernet"
         ],
         "requires": "{OptAll(|Fernet|)}"
     },
     {
-        "name": "Peat: Successfully Evade after using your Hyper",
+        "name": "Fernet (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Fernet (Level 3)",
+        "category": [
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Fernet (Level 4)",
+        "category": [
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Fernet (Level 5)",
+        "category": [
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Fernet (Win)",
+        "category": [
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Fernet: Complete a Wins Norma of 4 or higher",
+        "category": [
+            "(Character) Fernet"
+        ],
+        "requires": "{OptAll(|Fernet|)}"
+    },
+    {
+        "name": "Peat (Level 1)",
+        "category": [
+            "(Character) Peat"
         ],
         "requires": "{OptAll(|Peat|)}"
     },
     {
-        "name": "Kai: Complete a Story Mission",
+        "name": "Peat (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Peat (Level 3)",
+        "category": [
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Peat (Level 4)",
+        "category": [
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Peat (Level 5)",
+        "category": [
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Peat (Win)",
+        "category": [
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Peat: Successfully Evade after using your Hyper",
+        "category": [
+            "(Character) Peat"
+        ],
+        "requires": "{OptAll(|Peat|)}"
+    },
+    {
+        "name": "Kai (Level 1)",
+        "category": [
+            "(Character) Kai"
         ],
         "requires": "{OptAll(|Kai|)}"
     },
     {
-        "name": "Marie Poppo: KO a player with \"Reverse Attribute Field\"",
+        "name": "Kai (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Kai (Level 3)",
+        "category": [
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Kai (Level 4)",
+        "category": [
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Kai (Level 5)",
+        "category": [
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Kai (Win)",
+        "category": [
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Kai: Complete a Story Mission",
+        "category": [
+            "(Character) Kai"
+        ],
+        "requires": "{OptAll(|Kai|)}"
+    },
+    {
+        "name": "Marie Poppo (Level 1)",
+        "category": [
+            "(Character) Marie Poppo"
         ],
         "requires": "{OptAll(|Marie Poppo|)}"
     },
     {
-        "name": "Tomomo: At any point, be the only standing player.",
+        "name": "Marie Poppo (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Marie Poppo (Level 3)",
+        "category": [
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Marie Poppo (Level 4)",
+        "category": [
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Marie Poppo (Level 5)",
+        "category": [
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Marie Poppo (Win)",
+        "category": [
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Marie Poppo: KO a player with \"Reverse Attribute Field\"",
+        "category": [
+            "(Character) Marie Poppo"
+        ],
+        "requires": "{OptAll(|Marie Poppo|)}"
+    },
+    {
+        "name": "Tomomo (Level 1)",
+        "category": [
+            "(Character) Tomomo"
         ],
         "requires": "{OptAll(|Tomomo|)}"
     },
     {
-        "name": "Chicken: Land on your own Hyper",
+        "name": "Tomomo (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Tomomo (Level 3)",
+        "category": [
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Tomomo (Level 4)",
+        "category": [
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Tomomo (Level 5)",
+        "category": [
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Tomomo (Win)",
+        "category": [
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Tomomo: At any point, be the only standing player.",
+        "category": [
+            "(Character) Tomomo"
+        ],
+        "requires": "{OptAll(|Tomomo|)}"
+    },
+    {
+        "name": "Chicken (Level 1)",
+        "category": [
+            "(Character) Chicken"
         ],
         "requires": "{OptAll(|Chicken|)}"
     },
     {
-        "name": "Robo Ball: Obtain 5+ wins in a single game",
+        "name": "Chicken (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Chicken (Level 3)",
+        "category": [
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Chicken (Level 4)",
+        "category": [
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Chicken (Level 5)",
+        "category": [
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Chicken (Win)",
+        "category": [
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Chicken: Land on your own Hyper",
+        "category": [
+            "(Character) Chicken"
+        ],
+        "requires": "{OptAll(|Chicken|)}"
+    },
+    {
+        "name": "Robo Ball (Level 1)",
+        "category": [
+            "(Character) Robo Ball"
         ],
         "requires": "{OptAll(|Robo Ball|)}"
     },
     {
-        "name": "Seagull: Play your Hyper and a Battle Card together",
+        "name": "Robo Ball (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Robo Ball (Level 3)",
+        "category": [
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Robo Ball (Level 4)",
+        "category": [
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Robo Ball (Level 5)",
+        "category": [
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Robo Ball (Win)",
+        "category": [
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Robo Ball: Obtain 5+ wins in a single game",
+        "category": [
+            "(Character) Robo Ball"
+        ],
+        "requires": "{OptAll(|Robo Ball|)}"
+    },
+    {
+        "name": "Seagull (Level 1)",
+        "category": [
+            "(Character) Seagull"
         ],
         "requires": "{OptAll(|Seagull|)}"
     },
     {
-        "name": "Store Manager: KO the field boss",
+        "name": "Seagull (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Seagull (Level 3)",
+        "category": [
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Seagull (Level 4)",
+        "category": [
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Seagull (Level 5)",
+        "category": [
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Seagull (Win)",
+        "category": [
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Seagull: Play your Hyper and a Battle Card together",
+        "category": [
+            "(Character) Seagull"
+        ],
+        "requires": "{OptAll(|Seagull|)}"
+    },
+    {
+        "name": "Store Manager (Level 1)",
+        "category": [
+            "(Character) Store Manager"
         ],
         "requires": "{OptAll(|Store Manager|)}"
     },
     {
-        "name": "Shifu Robot: KO the field boss",
+        "name": "Store Manager (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Store Manager (Level 3)",
+        "category": [
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Store Manager (Level 4)",
+        "category": [
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Store Manager (Level 5)",
+        "category": [
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Store Manager (Win)",
+        "category": [
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Store Manager: KO the field boss",
+        "category": [
+            "(Character) Store Manager"
+        ],
+        "requires": "{OptAll(|Store Manager|)}"
+    },
+    {
+        "name": "Shifu Robot (Level 1)",
+        "category": [
+            "(Character) Shifu Robot"
         ],
         "requires": "{OptAll(|Shifu Robot|)}"
     },
     {
-        "name": "Flying Castle: KO the field boss",
+        "name": "Shifu Robot (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Shifu Robot (Level 3)",
+        "category": [
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Shifu Robot (Level 4)",
+        "category": [
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Shifu Robot (Level 5)",
+        "category": [
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Shifu Robot (Win)",
+        "category": [
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Shifu Robot: KO the field boss",
+        "category": [
+            "(Character) Shifu Robot"
+        ],
+        "requires": "{OptAll(|Shifu Robot|)}"
+    },
+    {
+        "name": "Flying Castle (Level 1)",
+        "category": [
+            "(Character) Flying Castle"
         ],
         "requires": "{OptAll(|Flying Castle|)}"
     },
     {
-        "name": "Syura: KO a player while at 1 HP",
+        "name": "Flying Castle (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Flying Castle (Level 3)",
+        "category": [
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Flying Castle (Level 4)",
+        "category": [
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Flying Castle (Level 5)",
+        "category": [
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Flying Castle (Win)",
+        "category": [
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Flying Castle: KO the field boss",
+        "category": [
+            "(Character) Flying Castle"
+        ],
+        "requires": "{OptAll(|Flying Castle|)}"
+    },
+    {
+        "name": "Syura (Level 1)",
+        "category": [
+            "(Character) Syura"
         ],
         "requires": "{OptAll(|Syura|)}"
     },
     {
-        "name": "Nanako: Gain Atleast 3 ATK from your Hyper",
+        "name": "Syura (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Syura (Level 3)",
+        "category": [
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Syura (Level 4)",
+        "category": [
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Syura (Level 5)",
+        "category": [
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Syura (Win)",
+        "category": [
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Syura: KO a player while at 1 HP",
+        "category": [
+            "(Character) Syura"
+        ],
+        "requires": "{OptAll(|Syura|)}"
+    },
+    {
+        "name": "Nanako (Level 1)",
+        "category": [
+            "(Character) Nanako"
         ],
         "requires": "{OptAll(|Nanako|)}"
     },
     {
-        "name": "Saki: KO a player who lands on your Hyper",
+        "name": "Nanako (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "Nanako (Level 3)",
+        "category": [
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "Nanako (Level 4)",
+        "category": [
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "Nanako (Level 5)",
+        "category": [
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "Nanako (Win)",
+        "category": [
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "Nanako: Gain Atleast 3 ATK from your Hyper",
+        "category": [
+            "(Character) Nanako"
+        ],
+        "requires": "{OptAll(|Nanako|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Level 1)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Level 2)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Level 3)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Level 4)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Level 5)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "QP (Dangerous) (Win)",
+        "category": [
+            "(Character) QP (Dangerous)"
+        ],
+        "requires": "{OptAll(|QP (Dangerous)|)}"
+    },
+    {
+        "name": "Saki (Level 1)",
+        "category": [
+            "(Character) Saki"
         ],
         "requires": "{OptAll(|Saki|)}"
     },
     {
-        "name": "Kyousuke: Use 2 Hypers in 1 Game",
+        "name": "Saki (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Saki (Level 3)",
+        "category": [
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Saki (Level 4)",
+        "category": [
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Saki (Level 5)",
+        "category": [
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Saki (Win)",
+        "category": [
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Saki: KO a player who lands on your Hyper",
+        "category": [
+            "(Character) Saki"
+        ],
+        "requires": "{OptAll(|Saki|)}"
+    },
+    {
+        "name": "Kyousuke (Level 1)",
+        "category": [
+            "(Character) Kyousuke"
         ],
         "requires": "{OptAll(|Kyousuke|)}"
     },
     {
-        "name": "Krilalaris: Increase your Max HP to 8",
+        "name": "Kyousuke (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Kyousuke (Level 3)",
+        "category": [
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Kyousuke (Level 4)",
+        "category": [
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Kyousuke (Level 5)",
+        "category": [
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Kyousuke (Win)",
+        "category": [
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Kyousuke: Use 2 Hypers in 1 Game",
+        "category": [
+            "(Character) Kyousuke"
+        ],
+        "requires": "{OptAll(|Kyousuke|)}"
+    },
+    {
+        "name": "Krilalaris (Level 1)",
+        "category": [
+            "(Character) Krilalaris"
         ],
         "requires": "{OptAll(|Krilalaris|)}"
     },
     {
-        "name": "Kae: Roll a 9+ Attack (After Modifiers)",
+        "name": "Krilalaris (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Krilalaris (Level 3)",
+        "category": [
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Krilalaris (Level 4)",
+        "category": [
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Krilalaris (Level 5)",
+        "category": [
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Krilalaris (Win)",
+        "category": [
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Krilalaris: Increase your Max HP to 8",
+        "category": [
+            "(Character) Krilalaris"
+        ],
+        "requires": "{OptAll(|Krilalaris|)}"
+    },
+    {
+        "name": "Kae (Level 1)",
+        "category": [
+            "(Character) Kae"
         ],
         "requires": "{OptAll(|Kae|)}"
     },
     {
-        "name": "Alte: Self-destruct a boss",
+        "name": "Kae (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Kae (Level 3)",
+        "category": [
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Kae (Level 4)",
+        "category": [
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Kae (Level 5)",
+        "category": [
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Kae (Win)",
+        "category": [
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Kae: Roll a 9+ Attack (After Modifiers)",
+        "category": [
+            "(Character) Kae"
+        ],
+        "requires": "{OptAll(|Kae|)}"
+    },
+    {
+        "name": "Alte (Level 1)",
+        "category": [
+            "(Character) Alte"
         ],
         "requires": "{OptAll(|Alte|)}"
     },
     {
-        "name": "Kyoko: Survive a match without being KO'd by another player",
+        "name": "Alte (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Alte (Level 3)",
+        "category": [
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Alte (Level 4)",
+        "category": [
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Alte (Level 5)",
+        "category": [
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Alte (Win)",
+        "category": [
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Alte: Self-destruct a boss",
+        "category": [
+            "(Character) Alte"
+        ],
+        "requires": "{OptAll(|Alte|)}"
+    },
+    {
+        "name": "Kyoko (Level 1)",
+        "category": [
+            "(Character) Kyoko"
         ],
         "requires": "{OptAll(|Kyoko|)}"
     },
     {
-        "name": "Sham: Force a player to fight the boss",
+        "name": "Kyoko (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Kyoko (Level 3)",
+        "category": [
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Kyoko (Level 4)",
+        "category": [
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Kyoko (Level 5)",
+        "category": [
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Kyoko (Win)",
+        "category": [
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Kyoko: Survive a match without being KO'd by another player",
+        "category": [
+            "(Character) Kyoko"
+        ],
+        "requires": "{OptAll(|Kyoko|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Level 1)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Level 2)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Level 3)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Level 4)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Level 5)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Marie Poppo (Mixed) (Win)",
+        "category": [
+            "(Character) Marie Poppo (Mixed)"
+        ],
+        "requires": "{OptAll(|Marie Poppo (Mixed)|)}"
+    },
+    {
+        "name": "Sham (Level 1)",
+        "category": [
+            "(Character) Sham"
         ],
         "requires": "{OptAll(|Sham|)}"
     },
     {
-        "name": "Sherry: KO another player or the field boss with Shield Counter",
+        "name": "Sham (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sham (Level 3)",
+        "category": [
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sham (Level 4)",
+        "category": [
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sham (Level 5)",
+        "category": [
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sham (Win)",
+        "category": [
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sham: Force a player to fight the boss",
+        "category": [
+            "(Character) Sham"
+        ],
+        "requires": "{OptAll(|Sham|)}"
+    },
+    {
+        "name": "Sherry (Level 1)",
+        "category": [
+            "(Character) Sherry"
         ],
         "requires": "{OptAll(|Sherry|)}"
     },
     {
-        "name": "Star Breaker: Hold 200 or more Stars",
+        "name": "Sherry (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sherry (Level 3)",
+        "category": [
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sherry (Level 4)",
+        "category": [
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sherry (Level 5)",
+        "category": [
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sherry (Win)",
+        "category": [
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sherry: KO another player or the field boss with Shield Counter",
+        "category": [
+            "(Character) Sherry"
+        ],
+        "requires": "{OptAll(|Sherry|)}"
+    },
+    {
+        "name": "Sora (Military) (Level 1)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Sora (Military) (Level 2)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Sora (Military) (Level 3)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Sora (Military) (Level 4)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Sora (Military) (Level 5)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Sora (Military) (Win)",
+        "category": [
+            "(Character) Sora (Military)"
+        ],
+        "requires": "{OptAll(|Sora (Military)|)}"
+    },
+    {
+        "name": "Star Breaker (Level 1)",
+        "category": [
+            "(Character) Star Breaker"
         ],
         "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
     },
     {
-        "name": "Sweet Breaker: Use Melting Memories to flip 3 cards from a single player",
+        "name": "Star Breaker (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Star Breaker (Level 3)",
+        "category": [
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Star Breaker (Level 4)",
+        "category": [
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Star Breaker (Level 5)",
+        "category": [
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Star Breaker (Win)",
+        "category": [
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Star Breaker: Hold 200 or more Stars",
+        "category": [
+            "(Character) Star Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Star Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker (Level 1)",
+        "category": [
+            "(Character) Sweet Breaker"
         ],
         "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
     },
     {
-        "name": "Nath: Reach 3 stacks of Active Extension",
+        "name": "Sweet Breaker (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker (Level 3)",
+        "category": [
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker (Level 4)",
+        "category": [
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker (Level 5)",
+        "category": [
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker (Win)",
+        "category": [
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Sweet Breaker: Use Melting Memories to flip 3 cards from a single player",
+        "category": [
+            "(Character) Sweet Breaker"
+        ],
+        "requires": "{OptAll(|@Breaker Pack DLC| and |Sweet Breaker|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Level 1)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Level 2)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Level 3)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Level 4)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Level 5)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Aru (Scramble) (Win)",
+        "category": [
+            "(Character) Aru (Scramble)"
+        ],
+        "requires": "{OptAll(|Aru (Scramble)|)}"
+    },
+    {
+        "name": "Nath (Level 1)",
+        "category": [
+            "(Character) Nath"
         ],
         "requires": "{OptAll(|Nath|)}"
     },
     {
-        "name": "Mimyuu: Have any player draw Evil Spy Work - Execution off of Passionate Research",
+        "name": "Nath (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Nath (Level 3)",
+        "category": [
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Nath (Level 4)",
+        "category": [
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Nath (Level 5)",
+        "category": [
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Nath (Win)",
+        "category": [
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Nath: Reach 3 stacks of Active Extension",
+        "category": [
+            "(Character) Nath"
+        ],
+        "requires": "{OptAll(|Nath|)}"
+    },
+    {
+        "name": "Mimyuu (Level 1)",
+        "category": [
+            "(Character) Mimyuu"
         ],
         "requires": "{OptAll(|Mimyuu|)}"
     },
     {
-        "name": "Tomato: KO a player within one chapter of them KOing Mimyuu",
+        "name": "Mimyuu (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Mimyuu (Level 3)",
+        "category": [
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Mimyuu (Level 4)",
+        "category": [
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Mimyuu (Level 5)",
+        "category": [
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Mimyuu (Win)",
+        "category": [
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Mimyuu: Have any player draw Evil Spy Work - Execution off of Passionate Research",
+        "category": [
+            "(Character) Mimyuu"
+        ],
+        "requires": "{OptAll(|Mimyuu|)}"
+    },
+    {
+        "name": "Tomato (Level 1)",
+        "category": [
+            "(Character) Tomato"
         ],
         "requires": "{OptAll(|Tomato|)}"
     },
     {
-        "name": "Kiriko: Lower your Max HP to 2",
+        "name": "Tomato (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Tomato (Level 3)",
+        "category": [
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Tomato (Level 4)",
+        "category": [
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Tomato (Level 5)",
+        "category": [
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Tomato (Win)",
+        "category": [
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Tomato: KO a player within one chapter of them KOing Mimyuu",
+        "category": [
+            "(Character) Tomato"
+        ],
+        "requires": "{OptAll(|Tomato|)}"
+    },
+    {
+        "name": "Kiriko (Level 1)",
+        "category": [
+            "(Character) Kiriko"
         ],
         "requires": "{OptAll(|Kiriko|)}"
     },
     {
-        "name": "NoName: KO a player in Head Form",
+        "name": "Kiriko (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "Kiriko (Level 3)",
+        "category": [
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "Kiriko (Level 4)",
+        "category": [
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "Kiriko (Level 5)",
+        "category": [
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "Kiriko (Win)",
+        "category": [
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "Kiriko: Lower your Max HP to 2",
+        "category": [
+            "(Character) Kiriko"
+        ],
+        "requires": "{OptAll(|Kiriko|)}"
+    },
+    {
+        "name": "NoName (Level 1)",
+        "category": [
+            "(Character) NoName"
         ],
         "requires": "{OptAll(|NoName|)}"
     },
     {
-        "name": "Ceoreparque: Complete a Norma two consecutive chapters in a row",
+        "name": "NoName (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "NoName (Level 3)",
+        "category": [
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "NoName (Level 4)",
+        "category": [
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "NoName (Level 5)",
+        "category": [
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "NoName (Win)",
+        "category": [
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "NoName: KO a player in Head Form",
+        "category": [
+            "(Character) NoName"
+        ],
+        "requires": "{OptAll(|NoName|)}"
+    },
+    {
+        "name": "Ceoreparque (Level 1)",
+        "category": [
+            "(Character) Ceoreparque"
         ],
         "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
     },
     {
-        "name": "Miusaki: Win a battle where Final Battle is played",
+        "name": "Ceoreparque (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Ceoreparque (Level 3)",
+        "category": [
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Ceoreparque (Level 4)",
+        "category": [
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Ceoreparque (Level 5)",
+        "category": [
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Ceoreparque (Win)",
+        "category": [
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Ceoreparque: Complete a Norma two consecutive chapters in a row",
+        "category": [
+            "(Character) Ceoreparque"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Ceoreparque|)}"
+    },
+    {
+        "name": "Miusaki (Level 1)",
+        "category": [
+            "(Character) Miusaki"
         ],
         "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
     },
     {
-        "name": "Yuki (Dangerous): Complete a Wins Norma of 4 or higher",
+        "name": "Miusaki (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Miusaki (Level 3)",
+        "category": [
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Miusaki (Level 4)",
+        "category": [
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Miusaki (Level 5)",
+        "category": [
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Miusaki (Win)",
+        "category": [
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Miusaki: Win a battle where Final Battle is played",
+        "category": [
+            "(Character) Miusaki"
+        ],
+        "requires": "{OptAll(|@Witch Pack DLC| and |Miusaki|)}"
+    },
+    {
+        "name": "Yuki (Dangerous) (Level 1)",
+        "category": [
+            "(Character) Yuki (Dangerous)"
         ],
         "requires": "{OptAll(|Yuki (Dangerous)|)}"
     },
     {
-        "name": "Tomomo (Casual): Hold 3+ Hypers at Once",
+        "name": "Yuki (Dangerous) (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Yuki (Dangerous) (Level 3)",
+        "category": [
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Yuki (Dangerous) (Level 4)",
+        "category": [
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Yuki (Dangerous) (Level 5)",
+        "category": [
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Yuki (Dangerous) (Win)",
+        "category": [
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Yuki (Dangerous): Complete a Wins Norma of 4 or higher",
+        "category": [
+            "(Character) Yuki (Dangerous)"
+        ],
+        "requires": "{OptAll(|Yuki (Dangerous)|)}"
+    },
+    {
+        "name": "Tomomo (Casual) (Level 1)",
+        "category": [
+            "(Character) Tomomo (Casual)"
         ],
         "requires": "{OptAll(|Tomomo (Casual)|)}"
     },
     {
-        "name": "Tsih: Hold 3 Gifts",
+        "name": "Tomomo (Casual) (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Tomomo (Casual) (Level 3)",
+        "category": [
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Tomomo (Casual) (Level 4)",
+        "category": [
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Tomomo (Casual) (Level 5)",
+        "category": [
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Tomomo (Casual) (Win)",
+        "category": [
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Tomomo (Casual): Hold 3+ Hypers at Once",
+        "category": [
+            "(Character) Tomomo (Casual)"
+        ],
+        "requires": "{OptAll(|Tomomo (Casual)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Level 1)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Level 2)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Level 3)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Level 4)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Level 5)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Suguri (Ver.2) (Win)",
+        "category": [
+            "(Character) Suguri (Ver.2)"
+        ],
+        "requires": "{OptAll(|Suguri (Ver.2)|)}"
+    },
+    {
+        "name": "Tsih (Level 1)",
+        "category": [
+            "(Character) Tsih"
         ],
         "requires": "{OptAll(|Tsih|)}"
     },
     {
-        "name": "Tequila: KO another player while you have 1 HP",
+        "name": "Tsih (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tsih (Level 3)",
+        "category": [
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tsih (Level 4)",
+        "category": [
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tsih (Level 5)",
+        "category": [
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tsih (Win)",
+        "category": [
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tsih: Hold 3 Gifts",
+        "category": [
+            "(Character) Tsih"
+        ],
+        "requires": "{OptAll(|Tsih|)}"
+    },
+    {
+        "name": "Tequila (Level 1)",
+        "category": [
+            "(Character) Tequila"
         ],
         "requires": "{OptAll(|Tequila|)}"
     },
     {
-        "name": "Mio: 50 or more stars from Magical Inferno",
+        "name": "Tequila (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Tequila (Level 3)",
+        "category": [
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Tequila (Level 4)",
+        "category": [
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Tequila (Level 5)",
+        "category": [
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Tequila (Win)",
+        "category": [
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Tequila: KO another player while you have 1 HP",
+        "category": [
+            "(Character) Tequila"
+        ],
+        "requires": "{OptAll(|Tequila|)}"
+    },
+    {
+        "name": "Mei (Level 1)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Mei (Level 2)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Mei (Level 3)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Mei (Level 4)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Mei (Level 5)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Mei (Win)",
+        "category": [
+            "(Character) Mei"
+        ],
+        "requires": "{OptAll(|Mei|)}"
+    },
+    {
+        "name": "Natsumi (Level 1)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Natsumi (Level 2)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Natsumi (Level 3)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Natsumi (Level 4)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Natsumi (Level 5)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Natsumi (Win)",
+        "category": [
+            "(Character) Natsumi"
+        ],
+        "requires": "{OptAll(|Natsumi|)}"
+    },
+    {
+        "name": "Nico (Level 1)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Nico (Level 2)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Nico (Level 3)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Nico (Level 4)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Nico (Level 5)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Nico (Win)",
+        "category": [
+            "(Character) Nico"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Nico|)}"
+    },
+    {
+        "name": "Arthur (Level 1)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Arthur (Level 2)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Arthur (Level 3)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Arthur (Level 4)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Arthur (Level 5)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Arthur (Win)",
+        "category": [
+            "(Character) Arthur"
+        ],
+        "requires": "{OptAll(|@Toy Store Pack DLC| and |Arthur|)}"
+    },
+    {
+        "name": "Iru (Level 1)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Iru (Level 2)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Iru (Level 3)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Iru (Level 4)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Iru (Level 5)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Iru (Win)",
+        "category": [
+            "(Character) Iru"
+        ],
+        "requires": "{OptAll(|Iru|)}"
+    },
+    {
+        "name": "Mira (Level 1)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Mira (Level 2)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Mira (Level 3)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Mira (Level 4)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Mira (Level 5)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Mira (Win)",
+        "category": [
+            "(Character) Mira"
+        ],
+        "requires": "{OptAll(|Mira|)}"
+    },
+    {
+        "name": "Cuties (Level 1)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Cuties (Level 2)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Cuties (Level 3)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Cuties (Level 4)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Cuties (Level 5)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Cuties (Win)",
+        "category": [
+            "(Character) Cuties"
+        ],
+        "requires": "{OptAll(|Cuties|)}"
+    },
+    {
+        "name": "Yuuki (Level 1)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Yuuki (Level 2)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Yuuki (Level 3)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Yuuki (Level 4)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Yuuki (Level 5)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Yuuki (Win)",
+        "category": [
+            "(Character) Yuuki"
+        ],
+        "requires": "{OptAll(|Yuuki|)}"
+    },
+    {
+        "name": "Islay (Level 1)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Islay (Level 2)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Islay (Level 3)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Islay (Level 4)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Islay (Level 5)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Islay (Win)",
+        "category": [
+            "(Character) Islay"
+        ],
+        "requires": "{OptAll(|Islay|)}"
+    },
+    {
+        "name": "Mio (Level 1)",
+        "category": [
+            "(Character) Mio"
         ],
         "requires": "{OptAll(|Mio|)}"
     },
     {
-        "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
+        "name": "Mio (Level 2)",
         "category": [
-            "(Goals)"
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Mio (Level 3)",
+        "category": [
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Mio (Level 4)",
+        "category": [
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Mio (Level 5)",
+        "category": [
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Mio (Win)",
+        "category": [
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Mio: 50 or more stars from Magical Inferno",
+        "category": [
+            "(Character) Mio"
+        ],
+        "requires": "{OptAll(|Mio|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Level 1)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Level 2)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Level 3)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Level 4)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Level 5)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Suguri (46 Billion Years) (Win)",
+        "category": [
+            "(Character) Suguri (46 Billion Years)"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Suguri (46 Billion Years)|)}"
+    },
+    {
+        "name": "Sumika (Level 1)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Sumika (Level 2)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Sumika (Level 3)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Sumika (Level 4)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Sumika (Level 5)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Sumika (Win)",
+        "category": [
+            "(Character) Sumika"
+        ],
+        "requires": "{OptAll(|@Old Guardian Pack DLC| and |Sumika|)}"
+    },
+    {
+        "name": "Ellie (Level 1)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Ellie (Level 2)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Ellie (Level 3)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Ellie (Level 4)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Ellie (Level 5)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Ellie (Win)",
+        "category": [
+            "(Character) Ellie"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Ellie|)}"
+    },
+    {
+        "name": "Lulu (Level 1)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Lulu (Level 2)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Lulu (Level 3)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Lulu (Level 4)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Lulu (Level 5)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Lulu (Win)",
+        "category": [
+            "(Character) Lulu"
+        ],
+        "requires": "{OptAll(|@Wanderer Pack DLC| and |Lulu|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Level 1)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Level 2)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Level 3)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Level 4)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Level 5)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Marc (Pilot) (Win)",
+        "category": [
+            "(Character) Marc (Pilot)"
+        ],
+        "requires": "{OptAll(|Marc (Pilot)|)}"
+    },
+    {
+        "name": "Alicianrone (Level 1)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Alicianrone (Level 2)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Alicianrone (Level 3)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Alicianrone (Level 4)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Alicianrone (Level 5)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Alicianrone (Win)",
+        "category": [
+            "(Character) Alicianrone"
+        ],
+        "requires": "{OptAll(|Alicianrone|)}"
+    },
+    {
+        "name": "Teotoratta (Level 1)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Teotoratta (Level 2)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Teotoratta (Level 3)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Teotoratta (Level 4)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Teotoratta (Level 5)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Teotoratta (Win)",
+        "category": [
+            "(Character) Teotoratta"
+        ],
+        "requires": "{OptAll(|Teotoratta|)}"
+    },
+    {
+        "name": "Arnelle (Level 1)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Arnelle (Level 2)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Arnelle (Level 3)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Arnelle (Level 4)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Arnelle (Level 5)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Arnelle (Win)",
+        "category": [
+            "(Character) Arnelle"
+        ],
+        "requires": "{OptAll(|Arnelle|)}"
+    },
+    {
+        "name": "Maynie (Level 1)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Maynie (Level 2)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Maynie (Level 3)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Maynie (Level 4)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Maynie (Level 5)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Maynie (Win)",
+        "category": [
+            "(Character) Maynie"
+        ],
+        "requires": "{OptAll(|Maynie|)}"
+    },
+    {
+        "name": "Kyupita (Level 1)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Kyupita (Level 2)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Kyupita (Level 3)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Kyupita (Level 4)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Kyupita (Level 5)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Kyupita (Win)",
+        "category": [
+            "(Character) Kyupita"
+        ],
+        "requires": "{OptAll(|Kyupita|)}"
+    },
+    {
+        "name": "Chris (Level 1)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Chris (Level 2)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Chris (Level 3)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Chris (Level 4)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Chris (Level 5)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Chris (Win)",
+        "category": [
+            "(Character) Chris"
+        ],
+        "requires": "{OptAll(|Chris|)}"
+    },
+    {
+        "name": "Halena (Level 1)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Halena (Level 2)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Halena (Level 3)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Halena (Level 4)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Halena (Level 5)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Halena (Win)",
+        "category": [
+            "(Character) Halena"
+        ],
+        "requires": "{OptAll(|Halena|)}"
+    },
+    {
+        "name": "Cook (Level 1)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Cook (Level 2)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Cook (Level 3)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Cook (Level 4)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Cook (Level 5)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Cook (Win)",
+        "category": [
+            "(Character) Cook"
+        ],
+        "requires": "{OptAll(|Cook|)}"
+    },
+    {
+        "name": "Lone Rider (Level 1)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Lone Rider (Level 2)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Lone Rider (Level 3)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Lone Rider (Level 4)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Lone Rider (Level 5)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Lone Rider (Win)",
+        "category": [
+            "(Character) Lone Rider"
+        ],
+        "requires": "{OptAll(|Lone Rider|)}"
+    },
+    {
+        "name": "Merchant (Level 1)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Merchant (Level 2)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Merchant (Level 3)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Merchant (Level 4)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Merchant (Level 5)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Merchant (Win)",
+        "category": [
+            "(Character) Merchant"
+        ],
+        "requires": "{OptAll(|Merchant|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Level 1)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Level 2)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Level 3)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Level 4)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Level 5)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Hime (Moonlight) (Win)",
+        "category": [
+            "(Character) Hime (Moonlight)"
+        ],
+        "requires": "{OptAll(|Hime (Moonlight)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Level 1)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Level 2)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Level 3)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Level 4)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Level 5)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Fernet (Noble) (Win)",
+        "category": [
+            "(Character) Fernet (Noble)"
+        ],
+        "requires": "{OptAll(|Fernet (Noble)|)}"
+    },
+    {
+        "name": "Malt (Level 1)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Malt (Level 2)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Malt (Level 3)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Malt (Level 4)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Malt (Level 5)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Malt (Win)",
+        "category": [
+            "(Character) Malt"
+        ],
+        "requires": "{OptAll(|Malt|)}"
+    },
+    {
+        "name": "Mescal (Level 1)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Mescal (Level 2)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Mescal (Level 3)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Mescal (Level 4)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Mescal (Level 5)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Mescal (Win)",
+        "category": [
+            "(Character) Mescal"
+        ],
+        "requires": "{OptAll(|Mescal|)}"
+    },
+    {
+        "name": "Shifu (Level 1)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Shifu (Level 2)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Shifu (Level 3)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Shifu (Level 4)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Shifu (Level 5)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Shifu (Win)",
+        "category": [
+            "(Character) Shifu"
+        ],
+        "requires": "{OptAll(|Shifu|)}"
+    },
+    {
+        "name": "Hoshino Reika (Level 1)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Hoshino Reika (Level 2)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Hoshino Reika (Level 3)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Hoshino Reika (Level 4)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Hoshino Reika (Level 5)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Hoshino Reika (Win)",
+        "category": [
+            "(Character) Hoshino Reika"
+        ],
+        "requires": "{OptAll(|Hoshino Reika|)}"
+    },
+    {
+        "name": "Watty (Level 1)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Watty (Level 2)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Watty (Level 3)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Watty (Level 4)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Watty (Level 5)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Watty (Win)",
+        "category": [
+            "(Character) Watty"
+        ],
+        "requires": "{OptAll(|Watty|)}"
+    },
+    {
+        "name": "Pomeranius (Level 1)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Pomeranius (Level 2)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Pomeranius (Level 3)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Pomeranius (Level 4)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Pomeranius (Level 5)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Pomeranius (Win)",
+        "category": [
+            "(Character) Pomeranius"
+        ],
+        "requires": "{OptAll(|Pomeranius|)}"
+    },
+    {
+        "name": "Sweet Creator (Level 1)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Sweet Creator (Level 2)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Sweet Creator (Level 3)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Sweet Creator (Level 4)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Sweet Creator (Level 5)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Sweet Creator (Win)",
+        "category": [
+            "(Character) Sweet Creator"
+        ],
+        "requires": "{OptAll(|Sweet Creator|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Level 1)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Level 2)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Level 3)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Level 4)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Level 5)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Saki (Sweet Maker) (Win)",
+        "category": [
+            "(Character) Saki (Sweet Maker)"
+        ],
+        "requires": "{OptAll(|Saki (Sweet Maker)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Level 1)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Level 2)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Level 3)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Level 4)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Level 5)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Natsumi (Sweet Blogger) (Win)",
+        "category": [
+            "(Character) Natsumi (Sweet Blogger)"
+        ],
+        "requires": "{OptAll(|Natsumi (Sweet Blogger)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Level 1)",
+        "category": [
+            "(Character) Mio (Festive)"
         ],
         "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Level 2)",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Level 3)",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Level 4)",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Level 5)",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive) (Win)",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Mio (Festive): Win with Mio's Christmas Cake in your hand",
+        "category": [
+            "(Character) Mio (Festive)"
+        ],
+        "requires": "{OptAll(|Mio (Festive)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Level 1)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Level 2)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Level 3)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Level 4)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Level 5)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Krilalaris (Pajamas) (Win)",
+        "category": [
+            "(Character) Krilalaris (Pajamas)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Krilalaris (Pajamas)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Level 1)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Level 2)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Level 3)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Level 4)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Level 5)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mimyuu (Jailbird) (Win)",
+        "category": [
+            "(Character) Mimyuu (Jailbird)"
+        ],
+        "requires": "{OptAll(|@Waruda Prison Break Pack DLC| and |Mimyuu (Jailbird)|)}"
+    },
+    {
+        "name": "Mother Poppo (Level 1)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Mother Poppo (Level 2)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Mother Poppo (Level 3)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Mother Poppo (Level 4)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Mother Poppo (Level 5)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Mother Poppo (Win)",
+        "category": [
+            "(Character) Mother Poppo"
+        ],
+        "requires": "{OptAll(|Mother Poppo|)}"
+    },
+    {
+        "name": "Dark Lulu (Level 1)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Dark Lulu (Level 2)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Dark Lulu (Level 3)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Dark Lulu (Level 4)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Dark Lulu (Level 5)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Dark Lulu (Win)",
+        "category": [
+            "(Character) Dark Lulu"
+        ],
+        "requires": "{OptAll(|Dark Lulu|)}"
+    },
+    {
+        "name": "Hyper Ellie (Level 1)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Hyper Ellie (Level 2)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Hyper Ellie (Level 3)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Hyper Ellie (Level 4)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Hyper Ellie (Level 5)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Hyper Ellie (Win)",
+        "category": [
+            "(Character) Hyper Ellie"
+        ],
+        "requires": "{OptAll(|Hyper Ellie|)}"
+    },
+    {
+        "name": "Kai (Hero) (Level 1)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Kai (Hero) (Level 2)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Kai (Hero) (Level 3)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Kai (Hero) (Level 4)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Kai (Hero) (Level 5)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Kai (Hero) (Win)",
+        "category": [
+            "(Character) Kai (Hero)"
+        ],
+        "requires": "{OptAll(|Kai (Hero)|)}"
+    },
+    {
+        "name": "Bourbon (Level 1)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Bourbon (Level 2)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Bourbon (Level 3)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Bourbon (Level 4)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Bourbon (Level 5)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Bourbon (Win)",
+        "category": [
+            "(Character) Bourbon"
+        ],
+        "requires": "{OptAll(|Bourbon|)}"
+    },
+    {
+        "name": "Grain (Level 1)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Grain (Level 2)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Grain (Level 3)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Grain (Level 4)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Grain (Level 5)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Grain (Win)",
+        "category": [
+            "(Character) Grain"
+        ],
+        "requires": "{OptAll(|Grain|)}"
+    },
+    {
+        "name": "Poyo (Level 1)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Poyo (Level 2)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Poyo (Level 3)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Poyo (Level 4)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Poyo (Level 5)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Poyo (Win)",
+        "category": [
+            "(Character) Poyo"
+        ],
+        "requires": "{OptAll(|Poyo|)}"
+    },
+    {
+        "name": "Chuu (Level 1)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Chuu (Level 2)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Chuu (Level 3)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Chuu (Level 4)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Chuu (Level 5)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Chuu (Win)",
+        "category": [
+            "(Character) Chuu"
+        ],
+        "requires": "{OptAll(|Chuu|)}"
+    },
+    {
+        "name": "Haruka (Level 1)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Haruka (Level 2)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Haruka (Level 3)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Haruka (Level 4)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Haruka (Level 5)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Haruka (Win)",
+        "category": [
+            "(Character) Haruka"
+        ],
+        "requires": "{OptAll(|Haruka|)}"
+    },
+    {
+        "name": "Kanata (Level 1)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
+    },
+    {
+        "name": "Kanata (Level 2)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
+    },
+    {
+        "name": "Kanata (Level 3)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
+    },
+    {
+        "name": "Kanata (Level 4)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
+    },
+    {
+        "name": "Kanata (Level 5)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
+    },
+    {
+        "name": "Kanata (Win)",
+        "category": [
+            "(Character) Kanata"
+        ],
+        "requires": "{OptAll(|Kanata|)}"
     },
     {
         "name": "Tomomo Hell (Victory)",
