@@ -174,7 +174,7 @@ class OrangeJuiceWorldBuilder(WorldBuilder):
                 )
                 self.item(
                     card_name,
-                    count=card_info.count,
+                    # count=card_info.count,
                     useful=True,
                     category=[cards_category, *card_pack_dlc_category],
                 )

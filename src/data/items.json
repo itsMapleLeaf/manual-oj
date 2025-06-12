@@ -820,7 +820,6 @@
     },
     {
         "name": "Dash!",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -828,7 +827,6 @@
     },
     {
         "name": "Saki's Cookie",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -836,7 +834,6 @@
     },
     {
         "name": "Flip Out",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -844,7 +841,6 @@
     },
     {
         "name": "Nice Jingle",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -852,7 +848,6 @@
     },
     {
         "name": "Nice Present",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -860,7 +855,6 @@
     },
     {
         "name": "Pudding",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -868,7 +862,6 @@
     },
     {
         "name": "I'm on Fire!",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -876,7 +869,6 @@
     },
     {
         "name": "Rbits",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -884,7 +876,6 @@
     },
     {
         "name": "Rainbow-Colored Circle",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -892,7 +883,6 @@
     },
     {
         "name": "Final Battle",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -900,7 +890,6 @@
     },
     {
         "name": "Bad Pudding",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -908,7 +897,6 @@
     },
     {
         "name": "Mimyuu's Hammer",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -916,7 +904,6 @@
     },
     {
         "name": "Dangerous Pudding",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -924,7 +911,6 @@
     },
     {
         "name": "Assault",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -932,7 +918,6 @@
     },
     {
         "name": "Sky Restaurant 'Pures'",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -940,7 +925,6 @@
     },
     {
         "name": "Here and There",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -948,7 +932,6 @@
     },
     {
         "name": "Holy Night",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -956,7 +939,6 @@
     },
     {
         "name": "Out of Ammo",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -964,7 +946,6 @@
     },
     {
         "name": "Gift Exchange",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -972,7 +953,6 @@
     },
     {
         "name": "Little War",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards"
@@ -980,7 +960,6 @@
     },
     {
         "name": "Long-Distance Shot",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -989,7 +968,6 @@
     },
     {
         "name": "Stiff Crystal",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -998,7 +976,6 @@
     },
     {
         "name": "Extend",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1007,7 +984,6 @@
     },
     {
         "name": "Princess's Privilege",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1016,7 +992,6 @@
     },
     {
         "name": "Big Magnum",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1025,7 +1000,6 @@
     },
     {
         "name": "Shield",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1034,7 +1008,6 @@
     },
     {
         "name": "Reverse Attribute Field",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1043,7 +1016,6 @@
     },
     {
         "name": "Piggy Bank",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1052,7 +1024,6 @@
     },
     {
         "name": "Invasion",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1061,7 +1032,6 @@
     },
     {
         "name": "Go Away",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1070,7 +1040,6 @@
     },
     {
         "name": "Heat 300%",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1079,7 +1048,6 @@
     },
     {
         "name": "Tragedy in the Dead of Night",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1088,7 +1056,6 @@
     },
     {
         "name": "Exchange",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1097,7 +1064,6 @@
     },
     {
         "name": "Flamethrower",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1106,7 +1072,6 @@
     },
     {
         "name": "For the Future of the Toy Store",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1115,7 +1080,6 @@
     },
     {
         "name": "Cloud of Seagulls",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1124,7 +1088,6 @@
     },
     {
         "name": "We Are Waruda",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1133,7 +1096,6 @@
     },
     {
         "name": "Dinner",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1142,7 +1104,6 @@
     },
     {
         "name": "Super All-Out Mode",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1151,7 +1112,6 @@
     },
     {
         "name": "Forced Revival",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1160,7 +1120,6 @@
     },
     {
         "name": "Oh My Friend",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1169,7 +1128,6 @@
     },
     {
         "name": "Sealed Guardian",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1178,7 +1136,6 @@
     },
     {
         "name": "Lonely Chariot",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1187,7 +1144,6 @@
     },
     {
         "name": "Ambush",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1196,7 +1152,6 @@
     },
     {
         "name": "Passionate Research",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1205,7 +1160,6 @@
     },
     {
         "name": "President's Privilege",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1214,7 +1168,6 @@
     },
     {
         "name": "Mimic",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1223,7 +1176,6 @@
     },
     {
         "name": "Tactical Retreat",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1232,7 +1184,6 @@
     },
     {
         "name": "Shield Counter",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1241,7 +1192,6 @@
     },
     {
         "name": "Piyopiyo Procession",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1250,7 +1200,6 @@
     },
     {
         "name": "Sealed Memories",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1259,7 +1208,6 @@
     },
     {
         "name": "Mix Phenomenon",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1268,7 +1216,6 @@
     },
     {
         "name": "Scary Solicitation",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1277,7 +1224,6 @@
     },
     {
         "name": "Completion Reward",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1286,7 +1232,6 @@
     },
     {
         "name": "Gentleman's Battle",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1295,7 +1240,6 @@
     },
     {
         "name": "Accel Hyper",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1304,7 +1248,6 @@
     },
     {
         "name": "Extension",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1313,7 +1256,6 @@
     },
     {
         "name": "Quick Restoration",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1322,7 +1264,6 @@
     },
     {
         "name": "Brutal Prank",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1331,7 +1272,6 @@
     },
     {
         "name": "Present Thief",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1340,7 +1280,6 @@
     },
     {
         "name": "Play of the Gods",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1349,7 +1288,6 @@
     },
     {
         "name": "Scrambled Eve",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1358,7 +1296,6 @@
     },
     {
         "name": "Star-Blasting Light",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1367,7 +1304,6 @@
     },
     {
         "name": "Unlucky Charm",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1376,7 +1312,6 @@
     },
     {
         "name": "Windy Enchantment",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1385,7 +1320,6 @@
     },
     {
         "name": "Treasure Thief",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1394,7 +1328,6 @@
     },
     {
         "name": "Dark Side of Business",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1403,7 +1336,6 @@
     },
     {
         "name": "Wanted",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1412,7 +1344,6 @@
     },
     {
         "name": "Party Time",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1421,7 +1352,6 @@
     },
     {
         "name": "Lost Child",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1430,7 +1360,6 @@
     },
     {
         "name": "Price of Power",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1439,7 +1368,6 @@
     },
     {
         "name": "Path Blockers",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1448,7 +1376,6 @@
     },
     {
         "name": "Desperate Modification",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1457,7 +1384,6 @@
     },
     {
         "name": "Poppoformation",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1466,7 +1392,6 @@
     },
     {
         "name": "Accelerating Sky",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1475,7 +1400,6 @@
     },
     {
         "name": "Poppo the Snatcher",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1484,7 +1408,6 @@
     },
     {
         "name": "Bloodlust",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1493,7 +1416,6 @@
     },
     {
         "name": "Backdoor Trade",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1502,7 +1424,6 @@
     },
     {
         "name": "Sink or Swim",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1511,7 +1432,6 @@
     },
     {
         "name": "Serious Battle",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1520,7 +1440,6 @@
     },
     {
         "name": "Portable Pudding",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1529,7 +1448,6 @@
     },
     {
         "name": "I Wanna See You",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1538,7 +1456,6 @@
     },
     {
         "name": "Encore",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1547,7 +1464,6 @@
     },
     {
         "name": "Sweet Destroyer",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1556,7 +1472,6 @@
     },
     {
         "name": "Serene Hush",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1565,7 +1480,6 @@
     },
     {
         "name": "Unpaid Work",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1574,7 +1488,6 @@
     },
     {
         "name": "Indiscriminate Fire Support",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1583,7 +1496,6 @@
     },
     {
         "name": "Lucky Charm",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1592,7 +1504,6 @@
     },
     {
         "name": "Metallic Monocoque",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1601,7 +1512,6 @@
     },
     {
         "name": "Overtime",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1610,7 +1520,6 @@
     },
     {
         "name": "Deceptive Disarming",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1619,7 +1528,6 @@
     },
     {
         "name": "BanaNana",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1628,7 +1536,6 @@
     },
     {
         "name": "Pet Snacks",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1637,7 +1544,6 @@
     },
     {
         "name": "Home Improvement",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1646,7 +1552,6 @@
     },
     {
         "name": "Lucky Sevens",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
@@ -1655,7 +1560,6 @@
     },
     {
         "name": "Warp Control",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1664,7 +1568,6 @@
     },
     {
         "name": "My Wild Friends",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1673,7 +1576,6 @@
     },
     {
         "name": "Contest of Cuteness",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1682,7 +1584,6 @@
     },
     {
         "name": "Bank of Poppo",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1691,7 +1592,6 @@
     },
     {
         "name": "Rebellion",
-        "count": 2,
         "useful": true,
         "category": [
             "Cards",
@@ -1700,7 +1600,6 @@
     },
     {
         "name": "Nanako's Bit",
-        "count": 1,
         "useful": true,
         "category": [
             "Cards",
